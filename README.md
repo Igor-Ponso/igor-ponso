@@ -1,5 +1,4 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />  
-<br/>
 
 <h1 align="center">I'm Igor</h1>
 <h3 align="center">A passionate Web Developer (mostly Front-End) from Brazil.</h3>
@@ -15,7 +14,7 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/15DpS_x94OlfmrCJBKA1imymLk_cd2DLz/view?usp=sharing](https://drive.google.com/file/d/15DpS_x94OlfmrCJBKA1imymLk_cd2DLz/view?usp=sharing)
 
 - ⚡ Fun fact **The Sun is not a giant fireball.**
-
+<br/>
 ## Github Stats
 
 <p align="center"> <img style="margin: 10px" src="https://komarev.com/ghpvc/?username=igor-ponso&label=Profile%20views&color=0e75b6&style=flat" alt="igor-ponso" /> </p>
