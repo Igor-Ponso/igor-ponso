@@ -27,8 +27,8 @@
 <div align="center"><img style="margin: 10px" src="https://github-readme-stats.vercel.app/api?username=igor-ponso&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 <br/>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img style="margin: 10px" src="https://github-profile-trophy.vercel.app/?username=igor-ponso" alt="igor-ponso" /></a> </p>
-<br/>
-![Snake animation](https://github.com/igor-ponso/igor-ponso/blob/output/github-contribution-grid-snake.svg)
+<div align="center"><img style="margin: 10px"align="center" src="https://github.com/Igor-Ponso/igor-ponso/blob/output/github-contribution-grid-snake.svg" /> </div>
+
 <br/>
 
 ## My Skill Set
