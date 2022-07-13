@@ -28,7 +28,7 @@
 <br/>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img style="margin: 10px" src="https://github-profile-trophy.vercel.app/?username=igor-ponso" alt="igor-ponso" /></a> </p>
 <br/>
-![Snake animation](https://github.com/igor-ponso/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/igor-ponso/igor-ponso/blob/output/github-contribution-grid-snake.svg)
 <br/>
 
 ## My Skill Set
