@@ -7,11 +7,16 @@
 
 - 🌱 I’m currently learning **VueJs, Advanced JavaScript, TypeScript and Clean Code.**
 
-- 💬 Ask me about **AWS (EC2 Instances, RDS, Route53, ElasticBeanStalk, Alarms and Monitoring), HTML, CSS,**
+- 💬 Ask me about **AWS (EC2, RDS, Route53, ElasticBeanStalk, Alarms and Monitoring), HTML, CSS, and FrontEnd stuffs** - 
+<small>I'll do my best do help</small>
 
 - 📫 How to reach me **igorponso07@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/15DpS_x94OlfmrCJBKA1imymLk_cd2DLz/view?usp=sharing](https://drive.google.com/file/d/15DpS_x94OlfmrCJBKA1imymLk_cd2DLz/view?usp=sharing)
+- :computer: Pc Gamer
+
+- :video_game: [**Crash Bandicoot Saga**](https://www.crashbandicoot.com/pt/nsane-trilogy/) are the best!
+
+- :airplane: Moving to Canada soon
 
 - ⚡ Fun fact **The Sun is not a giant fireball.**
 <br/>
