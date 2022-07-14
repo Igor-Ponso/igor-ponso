@@ -108,7 +108,7 @@
 
 <br/>
 
-## Connect with me
+## How to reach me
 
 <br/>
 <div align="center">
