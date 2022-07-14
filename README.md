@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning **VueJs, Advanced JavaScript, TypeScript and Clean Code.**
 
 - 💬 Ask me about **AWS (EC2, RDS, Route53, ElasticBeanStalk, Alarms and Monitoring), HTML, CSS, and FrontEnd stuffs** - 
-<small>I'll do my best do help</small>
+<small>I'll do my best to help</small>
 
 - 📫 How to reach me **igorponso07@gmail.com**
 
