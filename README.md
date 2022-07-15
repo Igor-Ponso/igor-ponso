@@ -18,7 +18,7 @@
 
 - :airplane: Moving to Canada soon
 
-- ⚡ Fun fact **The Sun is not a giant fireball.**
+- ⚡ Fun fact **The Sun is not a giant fireball. And A 🍍 is in reality a group of individual flowers that join together to create a multiple fruit**
 <br/>
 
 ## Github Stats
