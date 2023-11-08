@@ -9,7 +9,7 @@
 
 - 🖥️ My favorite stack is **FrontEnd: VueJS + Typescript, Pinia and Vite. BackEnd: Laravel with breeze-api.**
 
-- 💬 Ask me about **AWS (EC2, RDS, Route53, ElasticBeanStalk, Alarms and Monitoring), HTML, CSS, and FrontEnd stuffs** - 
+- 💬 Ask me about **AWS (EC2, RDS, Route53, ElasticBeanStalk, Alarms and Monitoring), HTML, CSS, VueJS/Nuxt, ReactJS/Next and FrontEnd stuffs at general** - 
 <small>I'll do my best to help</small>
 
 - 📫 Contact me **igorponso07@gmail.com**
