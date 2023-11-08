@@ -5,14 +5,14 @@
 
 ## About me
 
-- 🌱 I’m currently learning **VueJs, Advanced JavaScript, TypeScript and Clean Code.**
+- 🌱 I’m currently learning **Advanced JavaScript, GCP, AWS Lamba and Clean Code.**
+
+- 🖥️ My favorite stack is **FrontEnd: VueJS + Typescript, Pinia and Vite. BackEnd: Laravel with breeze-api.**
 
 - 💬 Ask me about **AWS (EC2, RDS, Route53, ElasticBeanStalk, Alarms and Monitoring), HTML, CSS, and FrontEnd stuffs** - 
 <small>I'll do my best to help</small>
 
 - 📫 Contact me **igorponso07@gmail.com**
-
-- :computer: Pc Gamer
 
 - :video_game: [**Crash Bandicoot Saga**](https://www.crashbandicoot.com/pt/nsane-trilogy/) are the best!
 
