@@ -9,14 +9,14 @@
 
 - 🖥️ My favorite stack is **FrontEnd: VueJS + Typescript, Pinia and Vite. BackEnd: Laravel with breeze-api.**
 
-- 💬 Ask me about **AWS (EC2, RDS, Route53, ElasticBeanStalk, Alarms and Monitoring), HTML, CSS, VueJS/ Nuxt, ReactJS/ Next and FrontEnd stuffs at general** - 
+- 💬 Ask me about **AWS (EC2, RDS, Route53, ElasticBeanStalk, Alarms and Monitoring), Laravel, VueJS/ Nuxt, ReactJS/ Next and FrontEnd stuffs at general** - 
 <small>I'll do my best to help</small>
 
 - 📫 Contact me **igorponso07@gmail.com**
 
 - :video_game: [**Crash Bandicoot Saga**](https://www.crashbandicoot.com/pt/nsane-trilogy/) are the best!
 
-- :airplane: Moving to Canada soon
+- 🇨🇦: Living in Canada 
 
 - ⚡ Fun fact **The Sun is not a giant fireball. And A 🍍 is in reality a group of individual flowers that join together to create a multiple fruit**
 <br/>
