@@ -46,7 +46,8 @@
 
 ### 🧠 Simon (Game)
 A simple memory game based on the classic Simon electronic game. Built with JavaScript and DOM manipulation to recreate the fun and challenge of repeating color sequences.
-[🔗 GitHub Repo](https://github.com/Igor-Ponso/genius)
+[🔗 GitHub Repo](https://github.com/Igor-Ponso/genius) or 
+[🎮 Play now](https://igor-ponso.github.io/genius/)
 
 ---
 
