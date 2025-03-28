@@ -1,6 +1,11 @@
 <p align="center">
-  <img src="./assets/greetings_typing_noto_fixed.gif" alt="Greetings Typing Animation" />
+  <picture>
+    <source srcset="./assets/greetings_typing_white_fixed.gif" media="(prefers-color-scheme: dark)" />
+    <source srcset="./assets/greetings_typing_noto_fixed.gif" media="(prefers-color-scheme: light)" />
+    <img src="./assets/greetings_typing_noto_fixed.gif" alt="Greetings Typing Animation" />
+  </picture>
 </p>
+
 <h1 align="center">I'm Igor</h1>
 <h3 align="center">Brazilian Full-Stack Web Developer living in Canada 🇨🇦</h3>
 <h4 align="center">Crafting frontends with VueJS & backends with Laravel | Fan of Clean Code & CyberSecurity</h4>
