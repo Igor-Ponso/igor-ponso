@@ -124,6 +124,14 @@ A full-stack app to manage anonymous gift exchanges among friends or colleagues.
   </a>
 </p>
 
+<p align="center">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=igor-ponso&theme=vue&hide_border=true&area=true&custom_title=GitHub%20Contribution%20Graph" 
+    alt="GitHub Activity Graph"
+  />
+</p>
+
+
 ---
 
 <details>
