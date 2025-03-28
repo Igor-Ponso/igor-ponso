@@ -1,5 +1,6 @@
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />  
-
+<p align="center">
+  <img src="./assets/greetings_typing_noto_fixed.gif" alt="Greetings Typing Animation" />
+</p>
 <h1 align="center">I'm Igor</h1>
 <h3 align="center">Brazilian Full-Stack Web Developer living in Canada 🇨🇦</h3>
 <h4 align="center">Crafting frontends with VueJS & backends with Laravel | Fan of Clean Code & CyberSecurity</h4>
