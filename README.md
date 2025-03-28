@@ -113,9 +113,10 @@ A full-stack app to manage anonymous gift exchanges among friends or colleagues.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=igor-ponso&show_icons=true&theme=vue-dark&count_private=true&hide_border=false" height="200"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=igor-ponso&layout=compact&hide_border=false&theme=vue-dark" height="200"/>
+  <img src="https://github-readme-stats-silk-zeta-74.vercel.app/api?username=igor-ponso&show_icons=true&theme=vue-dark&count_private=true&hide_border=false" height="200"/>
+  <img src="https://github-readme-stats-silk-zeta-74.vercel.app/api/top-langs/?username=igor-ponso&layout=compact&hide_border=false&theme=vue-dark" height="200"/>
 </p>
+
 
 <p align="center">
   <a href="https://git.io/streak-stats">
