@@ -104,21 +104,23 @@ A full-stack app to manage anonymous gift exchanges among friends or colleagues.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=igor-ponso&show_icons=true&theme=vue-dark&count_private=true&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=igor-ponso&layout=compact&hide_border=true&theme=vue-dark" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=igor-ponso&show_icons=true&theme=vue-dark&count_private=true&hide_border=false" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=igor-ponso&layout=compact&hide_border=false&theme=vue-dark" height="200"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-streak-stats.demolab.com/?user=igor-ponso&theme=vue-dark" height="150"/>
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats-one-self.vercel.app?user=Igor-Ponso&theme=vue-dark" height="350" />
+  </a>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=igor-ponso&theme=dracula&row=1&margin-w=15&margin-h=15"/>
-</p>
 
-<p align="center">
-  <img src="https://github.com/Igor-Ponso/igor-ponso/blob/output/github-contribution-grid-snake.svg" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Igor-Ponso/igor-ponso/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Igor-Ponso/igor-ponso/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake animation" src="https://github.com/Igor-Ponso/igor-ponso/blob/output/github-contribution-grid-snake.svg" />
+</picture>
+
 
 ---
 
