@@ -88,6 +88,17 @@ A full-stack app to manage anonymous gift exchanges among friends or colleagues.
 
 ---
 
+## ✨ Insight of the Day
+
+<!--START_SECTION:bibleverse-->
+📖 _"The heavens declare the glory of God; the skies proclaim the work of His hands."_  
+— Psalm 19:1 (NIV)
+
+🔁 _A new verse every day — come back tomorrow!_
+<!--END_SECTION:bibleverse-->
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
