@@ -83,7 +83,7 @@ A full-stack app to manage anonymous gift exchanges among friends or colleagues.
 ## 🔬 Random Curiosity of the Day
 
 <!--START_SECTION:curiosity-->
-🧠 The Earth's rotation is gradually slowing — by about 17 milliseconds every 100 years.
+🧠 The Hebrew word ‘shalom’ means more than ‘peace’ — it means wholeness and completeness.
 <!--END_SECTION:curiosity-->
 
 ---
