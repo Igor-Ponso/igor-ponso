@@ -104,16 +104,16 @@ A full-stack app to manage anonymous gift exchanges among friends or colleagues.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=igor-ponso&show_icons=true&theme=default&count_private=true&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=igor-ponso&layout=compact&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=igor-ponso&show_icons=true&theme=vue-dark&count_private=true&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=igor-ponso&layout=compact&hide_border=true&theme=vue-dark" height="150"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=igor-ponso&theme=default" height="150"/>
+  <img src="https://readme-streak-stats.demolab.com/?user=igor-ponso&theme=vue-dark" height="150"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=igor-ponso&theme=flat&row=1&margin-w=15&margin-h=15"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=igor-ponso&theme=dracula&row=1&margin-w=15&margin-h=15"/>
 </p>
 
 <p align="center">
