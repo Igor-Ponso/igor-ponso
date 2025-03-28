@@ -187,7 +187,7 @@ A full-stack app to manage anonymous gift exchanges among friends or colleagues.
 ## 🎧 Now on Spotify
 
 <p align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=mxw20ptt618yhwif7x3fiycng&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=mxw20ptt618yhwif7x3fiycng&redirect=true)"/>
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=mxw20ptt618yhwif7x3fiycng&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=mxw20ptt618yhwif7x3fiycng&redirect=true)"/>
 </p>
 
 ---
