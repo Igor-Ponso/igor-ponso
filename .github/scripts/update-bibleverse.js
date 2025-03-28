@@ -1,29 +1,33 @@
 const fs = require("fs");
 const path = require("path");
 
-// Caminho para os arquivos
 const readmePath = path.join(__dirname, "../../", "README.md");
-const bibleVersesPath = path.join(__dirname, "../data/bible-verses.json");
-// Lê o README.md
+const versesPath = path.join(__dirname, "../data/bible-verses.json");
+
 let readme = fs.readFileSync(readmePath, "utf8");
+const verses = JSON.parse(fs.readFileSync(versesPath, "utf8"));
 
-// Lê e parseia o JSON de versículos
-const verses = JSON.parse(fs.readFileSync(bibleVersesPath, "utf8"));
-
-// Escolhe um versículo aleatório
 const randomVerse = verses[Math.floor(Math.random() * verses.length)];
 
-// Tokens para delimitar a seção
-const startToken = "<!--START_SECTION:bible-verse-->";
-const endToken = "<!--END_SECTION:bible-verse-->";
+const startToken = "<!--START_SECTION:bibleverse-->";
+const endToken = "<!--END_SECTION:bibleverse-->";
 
-// Novo conteúdo
-const newContent = `${startToken}\n📖 ${randomVerse.text} — *${randomVerse.ref}*\n${endToken}`;
+// Adiciona a linha de tema apenas se ela existir
+const themeLine = randomVerse.theme
+  ? `\n💡 _Today’s encouragement: **${randomVerse.theme}**_`
+  : "";
+
+const verseBlock = `${startToken}
+📖 _"${randomVerse.text}"_  
+— ${randomVerse.ref} (NIV)${themeLine}
+
+🔁 _A new verse every day — come back tomorrow!_
+${endToken}`;
+
 const updatedReadme = readme.replace(
   new RegExp(`${startToken}[\\s\\S]*?${endToken}`),
-  newContent
+  verseBlock
 );
 
-// Escreve no README
 fs.writeFileSync(readmePath, updatedReadme);
 console.log("README updated with a new Bible verse!");
