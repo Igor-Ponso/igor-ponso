@@ -2,7 +2,7 @@ const fs = require("fs");
 const path = require("path");
 
 // Caminho para os arquivos
-const readmePath = path.join(__dirname, "../../..", "README.md");
+const readmePath = path.join(__dirname, "../../", "README.md");
 const curiositiesPath = path.join(__dirname, "../data/curiosities.json");
 
 // Lê o README.md
