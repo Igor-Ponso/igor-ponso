@@ -88,7 +88,7 @@ A full-stack app to manage anonymous gift exchanges among friends or colleagues.
 
 ---
 
-## ✨ Insight of the Day
+## ✨ Verse of the Day
 
 <!--START_SECTION:bibleverse-->
 📖 _"Christ died for our sins according to the Scriptures, that he was buried, that he was raised on the third day."_  
