@@ -27,5 +27,5 @@ jobs:
           git config --global user.name 'GitHub Action'
           git config --global user.email 'action@github.com'
           git add README.md
-          git commit -m "🔄 update: daily curiosity" || echo "No changes to commit"
+          git commit -m "🔄 update: daily bible-verse" || echo "No changes to commit"
           git push
