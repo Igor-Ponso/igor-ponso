@@ -86,6 +86,7 @@ A full-stack app to manage anonymous gift exchanges among friends or colleagues.
 🧠 In Biblical Hebrew, the word for “soul” (נפש - nephesh) is used for both humans and animals — reflecting the breath of life given by God to all living beings (Genesis 2:7).
 <!--END_SECTION:curiosity-->
 
+🔁 _A new curiosity every day — come back tomorrow!_
 ---
 
 ## ✨ Insight of the Day
@@ -186,4 +187,12 @@ A full-stack app to manage anonymous gift exchanges among friends or colleagues.
 
 <p align="center">
   <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=mxw20ptt618yhwif7x3fiycng&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=mxw20ptt618yhwif7x3fiycng&redirect=true)"/>
+</p>
+
+---
+
+## 👁️ Visitor Count
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=igor-ponso&label=Profile%20views&color=0e75b6&style=flat-square" alt="igor-ponso" />
 </p>
