@@ -83,7 +83,7 @@ A full-stack app to manage anonymous gift exchanges among friends or colleagues.
 ## 🔬 Random Curiosity of the Day
 
 <!--START_SECTION:curiosity-->
-🧠 The Hebrew word ‘shalom’ means more than ‘peace’ — it means wholeness and completeness.
+🧠 Your body has more bacterial cells than human cells — mostly good ones.
 <!--END_SECTION:curiosity-->
 
 ---
