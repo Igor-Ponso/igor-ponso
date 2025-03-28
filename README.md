@@ -5,6 +5,15 @@
 <h3 align="center">Brazilian Full-Stack Web Developer living in Canada 🇨🇦</h3>
 <h4 align="center">Crafting frontends with VueJS & backends with Laravel | Fan of Clean Code & CyberSecurity</h4>
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Igor-Ponso/igor-ponso/blob/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Igor-Ponso/igor-ponso/blob/output/github-contribution-grid-snake.svg" />
+    <img alt="Snake animation" src="https://github.com/Igor-Ponso/igor-ponso/blob/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
+
 ---
 
 ## 👨‍💻 About Me
@@ -113,14 +122,6 @@ A full-stack app to manage anonymous gift exchanges among friends or colleagues.
     <img src="https://github-readme-streak-stats-one-self.vercel.app?user=Igor-Ponso&theme=vue-dark" height="350" />
   </a>
 </p>
-
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Igor-Ponso/igor-ponso/blob/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Igor-Ponso/igor-ponso/blob/output/github-contribution-grid-snake.svg" />
-  <img alt="Snake animation" src="https://github.com/Igor-Ponso/igor-ponso/blob/output/github-contribution-grid-snake.svg" />
-</picture>
-
 
 ---
 
