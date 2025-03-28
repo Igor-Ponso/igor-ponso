@@ -9,11 +9,80 @@
 ## 👨‍💻 About Me
 
 - 🔭 Currently working on real-world web solutions with Laravel + VueJS stack
-- 🌱 Focused on mastering **Advanced JavaScript**, **AWS Lambda**, **Advanced Laravel approaches**, and **Clean Code**
+- 🌱 Focused on mastering **Advanced JavaScript**, **AWS Lambda**, **Advanced Larabel Tools**, and **Clean Code**
 - 🧠 Cybersecurity enthusiast with postgrad certification to build more secure systems
+- 📚 Big fan of Biblical exegesis, theology, and cosmic curiosities
 - ⚡ Fun fact: The Sun is *not* a fireball. Also, a 🍍 is a bunch of flowers joined together!
 - 🎮 Gaming fan — big love for the [**Crash Bandicoot Saga**](https://www.crashbandicoot.com/pt/nsane-trilogy/)
-- 📍 Living in **British Columbia, Canada 🇨🇦**
+- 🇨🇦 Living in **British Columbia, Canada**
+
+---
+
+## 🚀 Currently Working On
+
+![Laravel](https://img.shields.io/badge/Backend-Laravel-red?style=flat-square)
+![Vue 3](https://img.shields.io/badge/Frontend-Vue3-blue?style=flat-square)
+![Pinia](https://img.shields.io/badge/State-Pinia-yellow?style=flat-square)
+![AWS Lambda](https://img.shields.io/badge/AWS-Lambda-orange?style=flat-square)
+
+- 🧠 Campaign Manager Platform
+- 🧪 Refactoring with Clean Code Principles
+- ☁️ Exploring Serverless Functions (AWS)
+- 🔐 Studying System Design & Security
+
+---
+
+## 🧭 Learning Goals - 2025
+
+- [x] Clean Code Mastery
+- [ ] Advanced Vue 3 Patterns
+- [ ] TALL Stack Full Deployment
+- [ ] Kubernetes Basics
+- [ ] System Design Principles
+
+---
+
+## 📂 Featured Projects
+
+### 🧠 Simon (Game)
+A simple memory game based on the classic Simon electronic game. Built with JavaScript and DOM manipulation to recreate the fun and challenge of repeating color sequences.
+[🔗 GitHub Repo](https://github.com/Igor-Ponso/genius)
+
+---
+
+### 🎁 Secret Santa
+A full-stack app to manage anonymous gift exchanges among friends or colleagues. Users can register, draw names, and get their Secret Santa match securely.
+[🔗 GitHub Repo](https://github.com/igor-ponso/secret-santa)
+
+---
+
+## 🔮 Tech I Want to Learn Next
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-Advanced%20Laravel-f55247?style=for-the-badge&logo=laravel&logoColor=white&logoWidth=20&logo=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-line.svg" />
+  <img src="https://img.shields.io/badge/-Mobile%20Dev-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+</p>
+
+> I'm especially interested in exploring **advanced Laravel tooling**, like **Sail**, **Octane**, **queues**, **testing**, and performance optimization.
+>
+> I'd also love to dive into **mobile development**, either going full native or building rich **progressive web apps**.
+>
+> **Redis** is already part of my stack, but I want to go deeper into real-time applications.
+>
+> **ElasticSearch** continues to fascinate me with its powerful querying and filtering capabilities.
+>
+> As for **Kubernetes**... I’m not quite sure what it is yet, but hey, if it’s fun — why not? 😄
+
+---
+
+## 🧠 Random Curiosity of the Day
+
+<!--START_SECTION:curiosity-->
+Loading today's curiosity...
+<!--END_SECTION:curiosity-->
 
 ---
 
@@ -39,7 +108,7 @@
 ---
 
 <details>
-  <summary><strong>🧰 My Tech Stack</strong></summary>
+  <summary><strong>🛠️ My Tech Stack</strong></summary>
 
 ### Frontend
 <p align="center">
@@ -56,7 +125,7 @@
 ### Backend
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-line.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
 </p>
 
@@ -75,9 +144,12 @@
 
 ---
 
-## 📞 How to reach me
+## 📫 How to reach me
 
 <p align="center">
+  <a href="https://github.com/igor-ponso" target="_blank">
+    <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
   <a href="https://linkedin.com/in/igorponso" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
@@ -88,6 +160,17 @@
 
 ---
 
-## 🎵 Now on Spotify
+## 📄 Resume
 
-<div align="center"><img style="margin: 10px" src="https://spotify-github-profile.vercel.app/api/view?uid=mxw20ptt618yhwif7x3fiycng&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true" /></div>
+<p align="center">
+  For privacy reasons, I don't keep my resume public.<br/>
+  But I’ll be happy to send it — just reach out via <a href="mailto:igorponso07@gmail.com">email</a> or <a href="https://linkedin.com/in/igorponso" target="_blank">LinkedIn</a>!
+</p>
+
+---
+
+## 🎧 Now on Spotify
+
+<p align="center">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=mxw20ptt618yhwif7x3fiycng&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=mxw20ptt618yhwif7x3fiycng&redirect=true)"/>
+</p>
