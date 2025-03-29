@@ -97,7 +97,7 @@ A full-stack app to manage anonymous gift exchanges among friends or colleagues.
 ## 🔬 Random Curiosity of the Day
 
 <!--START_SECTION:curiosity-->
-🧠 A teaspoon of a neutron star would weigh around 6 billion tons.
+🧠 There is a Bible written entirely in Morse code — it's 3 volumes long.
 <!--END_SECTION:curiosity-->
 
 ---
