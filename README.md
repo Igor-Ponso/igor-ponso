@@ -97,7 +97,7 @@ A full-stack app to manage anonymous gift exchanges among friends or colleagues.
 ## 🔬 Random Curiosity of the Day
 
 <!--START_SECTION:curiosity-->
-🧠 Genesis is not only a book of the Bible — it's also the Greek word for ‘origin’.
+🧠 In Biblical Hebrew, the word for ‘soul’ (נפש - nephesh) is used for both humans and animals — reflecting the breath of life given by God (Genesis 2:7).
 <!--END_SECTION:curiosity-->
 
 ---
