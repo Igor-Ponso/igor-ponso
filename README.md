@@ -97,7 +97,7 @@ A full-stack app to manage anonymous gift exchanges among friends or colleagues.
 ## 🔬 Random Curiosity of the Day
 
 <!--START_SECTION:curiosity-->
-🧠 The Eiffel Tower can grow over 15 cm taller in summer due to thermal expansion.
+🧠 Octopuses have three hearts, and their blood is blue due to copper-based hemocyanin.
 <!--END_SECTION:curiosity-->
 
 ---
