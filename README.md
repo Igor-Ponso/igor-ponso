@@ -105,9 +105,9 @@ A full-stack app to manage anonymous gift exchanges among friends or colleagues.
 ## ✨ Verse of the Day
 
 <!--START_SECTION:bibleverse-->
-📖 _"Jesus answered, 'I am the way and the truth and the life. No one comes to the Father except through me.'"_  
-— John 14:6 (NIV)
-💡 _Today’s encouragement: **Exclusive Truth**_
+📖 _"For God so loved the world that he gave his one and only Son, that whoever believes in him shall not perish but have eternal life. For God did not send his Son into the world to condemn the world, but to save the world through him. Whoever believes in him is not condemned, but whoever does not believe stands condemned already because they have not believed in the name of God’s one and only Son."_  
+— John 3:16–18 (NIV)
+💡 _Today’s encouragement: **Salvation through Christ**_
 
 🔁 _A new verse every day — come back tomorrow!_
 <!--END_SECTION:bibleverse-->
