@@ -97,7 +97,7 @@ A full-stack app to manage anonymous gift exchanges among friends or colleagues.
 ## 🔬 Random Curiosity of the Day
 
 <!--START_SECTION:curiosity-->
-🧠 One day on Venus is longer than one year on Venus.
+🧠 The Bible has been translated into over 3,500 languages.
 <!--END_SECTION:curiosity-->
 
 ---
