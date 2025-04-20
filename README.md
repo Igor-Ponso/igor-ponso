@@ -97,7 +97,7 @@ A full-stack app to manage anonymous gift exchanges among friends or colleagues.
 ## 🔬 Random Curiosity of the Day
 
 <!--START_SECTION:curiosity-->
-🧠 The Bible has been translated into over 3,500 languages.
+🧠 God's name ‘YHWH’ was considered so sacred that Jews would not pronounce it aloud.
 <!--END_SECTION:curiosity-->
 
 ---
