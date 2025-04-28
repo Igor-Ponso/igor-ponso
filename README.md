@@ -105,9 +105,9 @@ A full-stack app to manage anonymous gift exchanges among friends or colleagues.
 ## ✨ Verse of the Day
 
 <!--START_SECTION:bibleverse-->
-📖 _"Christ died for our sins according to the Scriptures, that he was buried, that he was raised on the third day."_  
-— 1 Corinthians 15:3–4 (NIV)
-💡 _Today’s encouragement: **Death and Resurrection**_
+📖 _"The Lord is my shepherd, I lack nothing. He makes me lie down in green pastures, he leads me beside quiet waters, he refreshes my soul."_  
+— Psalm 23:1–3 (NIV)
+💡 _Today’s encouragement: **The Lord’s Care**_
 
 🔁 _A new verse every day — come back tomorrow!_
 <!--END_SECTION:bibleverse-->
