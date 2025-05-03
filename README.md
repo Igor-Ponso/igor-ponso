@@ -97,7 +97,7 @@ A full-stack app to manage anonymous gift exchanges among friends or colleagues.
 ## 🔬 Random Curiosity of the Day
 
 <!--START_SECTION:curiosity-->
-🧠 The moon is moving away from Earth by about 3.8 cm every year.
+🧠 Your body has more bacterial cells than human cells — mostly good ones.
 <!--END_SECTION:curiosity-->
 
 ---
