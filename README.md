@@ -97,7 +97,7 @@ A full-stack app to manage anonymous gift exchanges among friends or colleagues.
 ## 🔬 Random Curiosity of the Day
 
 <!--START_SECTION:curiosity-->
-🧠 There is a Bible written entirely in Morse code — it's 3 volumes long.
+🧠 The human eye can distinguish around 10 million different colors.
 <!--END_SECTION:curiosity-->
 
 ---
