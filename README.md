@@ -97,7 +97,7 @@ A full-stack app to manage anonymous gift exchanges among friends or colleagues.
 ## 🔬 Random Curiosity of the Day
 
 <!--START_SECTION:curiosity-->
-🧠 One day on Venus is longer than one year on Venus.
+🧠 The human eye can distinguish around 10 million different colors.
 <!--END_SECTION:curiosity-->
 
 ---
