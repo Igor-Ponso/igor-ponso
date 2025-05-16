@@ -97,7 +97,7 @@ A full-stack app to manage anonymous gift exchanges among friends or colleagues.
 ## 🔬 Random Curiosity of the Day
 
 <!--START_SECTION:curiosity-->
-🧠 The human eye can distinguish around 10 million different colors.
+🧠 A teaspoon of a neutron star would weigh around 6 billion tons.
 <!--END_SECTION:curiosity-->
 
 ---
