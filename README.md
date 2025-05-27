@@ -105,9 +105,9 @@ A full-stack app to manage anonymous gift exchanges among friends or colleagues.
 ## ✨ Verse of the Day
 
 <!--START_SECTION:bibleverse-->
-📖 _"Salvation is found in no one else, for there is no other name under heaven given to mankind by which we must be saved."_  
-— Acts 4:12 (NIV)
-💡 _Today’s encouragement: **Christ is the Only Way**_
+📖 _"Trust in the Lord with all your heart and lean not on your own understanding; in all your ways submit to him, and he will make your paths straight."_  
+— Proverbs 3:5–6 (NIV)
+💡 _Today’s encouragement: **Dependence on God**_
 
 🔁 _A new verse every day — come back tomorrow!_
 <!--END_SECTION:bibleverse-->
