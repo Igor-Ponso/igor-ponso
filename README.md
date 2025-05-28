@@ -105,9 +105,9 @@ A full-stack app to manage anonymous gift exchanges among friends or colleagues.
 ## ✨ Verse of the Day
 
 <!--START_SECTION:bibleverse-->
-📖 _"Trust in the Lord with all your heart and lean not on your own understanding; in all your ways submit to him, and he will make your paths straight."_  
-— Proverbs 3:5–6 (NIV)
-💡 _Today’s encouragement: **Dependence on God**_
+📖 _"But seek first his kingdom and his righteousness, and all these things will be given to you as well."_  
+— Matthew 6:33 (NIV)
+💡 _Today’s encouragement: **Kingdom Priority**_
 
 🔁 _A new verse every day — come back tomorrow!_
 <!--END_SECTION:bibleverse-->
