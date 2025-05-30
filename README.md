@@ -97,7 +97,7 @@ A full-stack app to manage anonymous gift exchanges among friends or colleagues.
 ## 🔬 Random Curiosity of the Day
 
 <!--START_SECTION:curiosity-->
-🧠 A teaspoon of a neutron star would weigh around 6 billion tons.
+🧠 The moon is moving away from Earth by about 3.8 cm every year.
 <!--END_SECTION:curiosity-->
 
 ---
