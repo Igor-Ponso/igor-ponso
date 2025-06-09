@@ -97,7 +97,7 @@ A full-stack app to manage anonymous gift exchanges among friends or colleagues.
 ## 🔬 Random Curiosity of the Day
 
 <!--START_SECTION:curiosity-->
-🧠 In Biblical Hebrew, the word for ‘soul’ (נפש - nephesh) is used for both humans and animals — reflecting the breath of life given by God (Genesis 2:7).
+🧠 There is a Bible written entirely in Morse code — it's 3 volumes long.
 <!--END_SECTION:curiosity-->
 
 ---
