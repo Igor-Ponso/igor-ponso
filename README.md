@@ -105,9 +105,9 @@ A full-stack app to manage anonymous gift exchanges among friends or colleagues.
 ## ✨ Verse of the Day
 
 <!--START_SECTION:bibleverse-->
-📖 _"Therefore, there is now no condemnation for those who are in Christ Jesus."_  
-— Romans 8:1 (NIV)
-💡 _Today’s encouragement: **Freedom in Christ**_
+📖 _"Whatever you do, work at it with all your heart, as working for the Lord, not for human masters."_  
+— Colossians 3:23–24 (NIV)
+💡 _Today’s encouragement: **Work with Purpose**_
 
 🔁 _A new verse every day — come back tomorrow!_
 <!--END_SECTION:bibleverse-->
