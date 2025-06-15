@@ -97,7 +97,7 @@ A full-stack app to manage anonymous gift exchanges among friends or colleagues.
 ## 🔬 Random Curiosity of the Day
 
 <!--START_SECTION:curiosity-->
-🧠 Your body has more bacterial cells than human cells — mostly good ones.
+🧠 The Milky Way galaxy is on a collision course with the Andromeda galaxy.
 <!--END_SECTION:curiosity-->
 
 ---
