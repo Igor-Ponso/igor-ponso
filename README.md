@@ -97,7 +97,7 @@ A full-stack app to manage anonymous gift exchanges among friends or colleagues.
 ## 🔬 Random Curiosity of the Day
 
 <!--START_SECTION:curiosity-->
-🧠 Jesus wept (John 11:35) is the shortest verse in the Bible — revealing Christ's humanity.
+🧠 Genesis is not only a book of the Bible — it's also the Greek word for ‘origin’.
 <!--END_SECTION:curiosity-->
 
 ---
