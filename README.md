@@ -97,7 +97,7 @@ A full-stack app to manage anonymous gift exchanges among friends or colleagues.
 ## 🔬 Random Curiosity of the Day
 
 <!--START_SECTION:curiosity-->
-🧠 The Hebrew word ‘shalom’ means more than ‘peace’ — it means wholeness and completeness.
+🧠 Genesis is not only a book of the Bible — it's also the Greek word for ‘origin’.
 <!--END_SECTION:curiosity-->
 
 ---
