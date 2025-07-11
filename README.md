@@ -105,9 +105,9 @@ A full-stack app to manage anonymous gift exchanges among friends or colleagues.
 ## ✨ Verse of the Day
 
 <!--START_SECTION:bibleverse-->
-📖 _"You will keep in perfect peace those whose minds are steadfast, because they trust in you."_  
-— Isaiah 26:3 (NIV)
-💡 _Today’s encouragement: **Perfect Peace**_
+📖 _"In the beginning was the Word, and the Word was with God, and the Word was God. He was with God in the beginning."_  
+— John 1:1–3 (NIV)
+💡 _Today’s encouragement: **Christ the Eternal Word**_
 
 🔁 _A new verse every day — come back tomorrow!_
 <!--END_SECTION:bibleverse-->
