@@ -97,7 +97,7 @@ A full-stack app to manage anonymous gift exchanges among friends or colleagues.
 ## 🔬 Random Curiosity of the Day
 
 <!--START_SECTION:curiosity-->
-🧠 The universe is expanding faster today than it was billions of years ago.
+🧠 One day on Venus is longer than one year on Venus.
 <!--END_SECTION:curiosity-->
 
 ---
