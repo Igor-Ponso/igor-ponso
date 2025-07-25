@@ -97,7 +97,7 @@ A full-stack app to manage anonymous gift exchanges among friends or colleagues.
 ## 🔬 Random Curiosity of the Day
 
 <!--START_SECTION:curiosity-->
-🧠 Sharks are older than trees. They’ve existed for over 400 million years.
+🧠 Your body contains around 37.2 trillion cells — and they’re constantly renewing.
 <!--END_SECTION:curiosity-->
 
 ---
