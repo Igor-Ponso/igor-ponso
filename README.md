@@ -97,7 +97,7 @@ A full-stack app to manage anonymous gift exchanges among friends or colleagues.
 ## 🔬 Random Curiosity of the Day
 
 <!--START_SECTION:curiosity-->
-🧠 Genesis is not only a book of the Bible — it's also the Greek word for ‘origin’.
+🧠 If the Sun were the size of a white blood cell, the Milky Way would be the size of the continental United States.
 <!--END_SECTION:curiosity-->
 
 ---
