@@ -97,7 +97,7 @@ A full-stack app to manage anonymous gift exchanges among friends or colleagues.
 ## 🔬 Random Curiosity of the Day
 
 <!--START_SECTION:curiosity-->
-🧠 In Biblical Hebrew, the word for ‘soul’ (נפש - nephesh) is used for both humans and animals — reflecting the breath of life given by God (Genesis 2:7).
+🧠 The Bible has been translated into over 3,500 languages.
 <!--END_SECTION:curiosity-->
 
 ---
