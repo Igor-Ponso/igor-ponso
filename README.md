@@ -105,9 +105,9 @@ A full-stack app to manage anonymous gift exchanges among friends or colleagues.
 ## ✨ Verse of the Day
 
 <!--START_SECTION:bibleverse-->
-📖 _"Love the Lord your God with all your heart and with all your soul and with all your strength."_  
-— Deuteronomy 6:5 (NIV)
-💡 _Today’s encouragement: **Greatest Commandment**_
+📖 _"Christ died for our sins according to the Scriptures, that he was buried, that he was raised on the third day."_  
+— 1 Corinthians 15:3–4 (NIV)
+💡 _Today’s encouragement: **Death and Resurrection**_
 
 🔁 _A new verse every day — come back tomorrow!_
 <!--END_SECTION:bibleverse-->
