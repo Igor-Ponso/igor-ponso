@@ -97,7 +97,7 @@ A full-stack app to manage anonymous gift exchanges among friends or colleagues.
 ## 🔬 Random Curiosity of the Day
 
 <!--START_SECTION:curiosity-->
-🧠 A teaspoon of a neutron star would weigh around 6 billion tons.
+🧠 Bananas are technically berries, but strawberries are not.
 <!--END_SECTION:curiosity-->
 
 ---
