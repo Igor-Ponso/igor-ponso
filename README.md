@@ -97,7 +97,7 @@ A full-stack app to manage anonymous gift exchanges among friends or colleagues.
 ## 🔬 Random Curiosity of the Day
 
 <!--START_SECTION:curiosity-->
-🧠 The Bible has been translated into over 3,500 languages.
+🧠 Your body contains around 37.2 trillion cells — and they’re constantly renewing.
 <!--END_SECTION:curiosity-->
 
 ---
