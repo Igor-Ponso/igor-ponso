@@ -105,9 +105,9 @@ A full-stack app to manage anonymous gift exchanges among friends or colleagues.
 ## ✨ Verse of the Day
 
 <!--START_SECTION:bibleverse-->
-📖 _"The Lord is my shepherd, I lack nothing. He makes me lie down in green pastures, he leads me beside quiet waters, he refreshes my soul."_  
-— Psalm 23:1–3 (NIV)
-💡 _Today’s encouragement: **The Lord’s Care**_
+📖 _"But God demonstrates his own love for us in this: While we were still sinners, Christ died for us."_  
+— Romans 5:8 (NIV)
+💡 _Today’s encouragement: **God’s Love in Action**_
 
 🔁 _A new verse every day — come back tomorrow!_
 <!--END_SECTION:bibleverse-->
