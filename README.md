@@ -105,9 +105,9 @@ A full-stack app to manage anonymous gift exchanges among friends or colleagues.
 ## ✨ Verse of the Day
 
 <!--START_SECTION:bibleverse-->
-📖 _"For God so loved the world that he gave his one and only Son, that whoever believes in him shall not perish but have eternal life. For God did not send his Son into the world to condemn the world, but to save the world through him. Whoever believes in him is not condemned, but whoever does not believe stands condemned already because they have not believed in the name of God’s one and only Son."_  
-— John 3:16–18 (NIV)
-💡 _Today’s encouragement: **Salvation through Christ**_
+📖 _"Come to me, all you who are weary and burdened, and I will give you rest."_  
+— Matthew 11:28–30 (NIV)
+💡 _Today’s encouragement: **Rest for the Soul**_
 
 🔁 _A new verse every day — come back tomorrow!_
 <!--END_SECTION:bibleverse-->
