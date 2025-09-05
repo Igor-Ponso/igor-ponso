@@ -97,7 +97,7 @@ A full-stack app to manage anonymous gift exchanges among friends or colleagues.
 ## 🔬 Random Curiosity of the Day
 
 <!--START_SECTION:curiosity-->
-🧠 In the Hebrew Bible, the name ‘Adam’ is closely related to ‘adamah’, which means ‘ground’.
+🧠 If the Sun were the size of a white blood cell, the Milky Way would be the size of the continental United States.
 <!--END_SECTION:curiosity-->
 
 ---
