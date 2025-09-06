@@ -97,7 +97,7 @@ A full-stack app to manage anonymous gift exchanges among friends or colleagues.
 ## 🔬 Random Curiosity of the Day
 
 <!--START_SECTION:curiosity-->
-🧠 If the Sun were the size of a white blood cell, the Milky Way would be the size of the continental United States.
+🧠 Saturn's moon Titan has lakes of liquid methane instead of water.
 <!--END_SECTION:curiosity-->
 
 ---
