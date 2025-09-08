@@ -97,7 +97,7 @@ A full-stack app to manage anonymous gift exchanges among friends or colleagues.
 ## 🔬 Random Curiosity of the Day
 
 <!--START_SECTION:curiosity-->
-🧠 Your body has more bacterial cells than human cells — mostly good ones.
+🧠 Genesis is not only a book of the Bible — it's also the Greek word for ‘origin’.
 <!--END_SECTION:curiosity-->
 
 ---
