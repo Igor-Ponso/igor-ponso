@@ -97,7 +97,7 @@ A full-stack app to manage anonymous gift exchanges among friends or colleagues.
 ## 🔬 Random Curiosity of the Day
 
 <!--START_SECTION:curiosity-->
-🧠 Octopuses have three hearts, and their blood is blue due to copper-based hemocyanin.
+🧠 Some turtles can breathe through their butts. It's called cloacal respiration.
 <!--END_SECTION:curiosity-->
 
 ---
