@@ -105,9 +105,9 @@ A full-stack app to manage anonymous gift exchanges among friends or colleagues.
 ## ✨ Verse of the Day
 
 <!--START_SECTION:bibleverse-->
-📖 _"Whatever you do, work at it with all your heart, as working for the Lord, not for human masters."_  
-— Colossians 3:23–24 (NIV)
-💡 _Today’s encouragement: **Work with Purpose**_
+📖 _"Praise the Lord, my soul, and forget not all his benefits—who forgives all your sins and heals all your diseases..."_  
+— Psalm 103:2–5 (NIV)
+💡 _Today’s encouragement: **Gratitude and Grace**_
 
 🔁 _A new verse every day — come back tomorrow!_
 <!--END_SECTION:bibleverse-->
