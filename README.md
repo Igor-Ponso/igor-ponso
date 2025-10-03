@@ -97,7 +97,7 @@ A full-stack app to manage anonymous gift exchanges among friends or colleagues.
 ## 🔬 Random Curiosity of the Day
 
 <!--START_SECTION:curiosity-->
-🧠 The word ‘universe’ comes from the Latin ‘universum’ — meaning ‘all things combined as one.’
+🧠 A teaspoon of a neutron star would weigh around 6 billion tons.
 <!--END_SECTION:curiosity-->
 
 ---
