@@ -105,9 +105,9 @@ A full-stack app to manage anonymous gift exchanges among friends or colleagues.
 ## ✨ Verse of the Day
 
 <!--START_SECTION:bibleverse-->
-📖 _"My God, my God, why have you forsaken me?"_  
-— Psalm 22:1 (NIV)
-💡 _Today’s encouragement: **Prophetic Cry of the Cross**_
+📖 _"In the beginning God created the heavens and the earth."_  
+— Genesis 1:1 (NIV)
+💡 _Today’s encouragement: **God as Creator**_
 
 🔁 _A new verse every day — come back tomorrow!_
 <!--END_SECTION:bibleverse-->
