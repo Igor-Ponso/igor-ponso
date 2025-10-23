@@ -97,7 +97,7 @@ A full-stack app to manage anonymous gift exchanges among friends or colleagues.
 ## 🔬 Random Curiosity of the Day
 
 <!--START_SECTION:curiosity-->
-🧠 If the Sun were the size of a white blood cell, the Milky Way would be the size of the continental United States.
+🧠 In space, no one can hear you scream — because there is no air to carry sound.
 <!--END_SECTION:curiosity-->
 
 ---
