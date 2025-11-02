@@ -97,7 +97,7 @@ A full-stack app to manage anonymous gift exchanges among friends or colleagues.
 ## 🔬 Random Curiosity of the Day
 
 <!--START_SECTION:curiosity-->
-🧠 In the Hebrew Bible, the name ‘Adam’ is closely related to ‘adamah’, which means ‘ground’.
+🧠 The Earth's rotation is gradually slowing — by about 17 milliseconds every 100 years.
 <!--END_SECTION:curiosity-->
 
 ---
