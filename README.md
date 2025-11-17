@@ -97,7 +97,7 @@ A full-stack app to manage anonymous gift exchanges among friends or colleagues.
 ## 🔬 Random Curiosity of the Day
 
 <!--START_SECTION:curiosity-->
-🧠 A group of flamingos is called a ‘flamboyance’.
+🧠 The Hebrew word ‘shalom’ means more than ‘peace’ — it means wholeness and completeness.
 <!--END_SECTION:curiosity-->
 
 ---
