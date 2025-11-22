@@ -105,9 +105,9 @@ A full-stack app to manage anonymous gift exchanges among friends or colleagues.
 ## ✨ Verse of the Day
 
 <!--START_SECTION:bibleverse-->
-📖 _"My God, my God, why have you forsaken me?"_  
-— Psalm 22:1 (NIV)
-💡 _Today’s encouragement: **Prophetic Cry of the Cross**_
+📖 _"For the Spirit God gave us does not make us timid, but gives us power, love and self-discipline."_  
+— 2 Timothy 1:7 (NIV)
+💡 _Today’s encouragement: **Empowered Living**_
 
 🔁 _A new verse every day — come back tomorrow!_
 <!--END_SECTION:bibleverse-->
