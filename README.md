@@ -97,7 +97,7 @@ A full-stack app to manage anonymous gift exchanges among friends or colleagues.
 ## 🔬 Random Curiosity of the Day
 
 <!--START_SECTION:curiosity-->
-🧠 Saturn's moon Titan has lakes of liquid methane instead of water.
+🧠 Jesus wept (John 11:35) is the shortest verse in the Bible — revealing Christ's humanity.
 <!--END_SECTION:curiosity-->
 
 ---
