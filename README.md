@@ -97,7 +97,7 @@ A full-stack app to manage anonymous gift exchanges among friends or colleagues.
 ## 🔬 Random Curiosity of the Day
 
 <!--START_SECTION:curiosity-->
-🧠 Jesus wept (John 11:35) is the shortest verse in the Bible — revealing Christ's humanity.
+🧠 In the Hebrew Bible, the name ‘Adam’ is closely related to ‘adamah’, which means ‘ground’.
 <!--END_SECTION:curiosity-->
 
 ---
