@@ -97,7 +97,7 @@ A full-stack app to manage anonymous gift exchanges among friends or colleagues.
 ## 🔬 Random Curiosity of the Day
 
 <!--START_SECTION:curiosity-->
-🧠 In space, no one can hear you scream — because there is no air to carry sound.
+🧠 God's name ‘YHWH’ was considered so sacred that Jews would not pronounce it aloud.
 <!--END_SECTION:curiosity-->
 
 ---
