@@ -97,7 +97,7 @@ A full-stack app to manage anonymous gift exchanges among friends or colleagues.
 ## 🔬 Random Curiosity of the Day
 
 <!--START_SECTION:curiosity-->
-🧠 Genesis is not only a book of the Bible — it's also the Greek word for ‘origin’.
+🧠 The Milky Way galaxy is on a collision course with the Andromeda galaxy.
 <!--END_SECTION:curiosity-->
 
 ---
