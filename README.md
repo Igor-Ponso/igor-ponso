@@ -97,7 +97,7 @@ A full-stack app to manage anonymous gift exchanges among friends or colleagues.
 ## 🔬 Random Curiosity of the Day
 
 <!--START_SECTION:curiosity-->
-🧠 The Milky Way galaxy is on a collision course with the Andromeda galaxy.
+🧠 The universe is expanding faster today than it was billions of years ago.
 <!--END_SECTION:curiosity-->
 
 ---
