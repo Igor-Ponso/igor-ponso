@@ -97,7 +97,7 @@ A full-stack app to manage anonymous gift exchanges among friends or colleagues.
 ## 🔬 Random Curiosity of the Day
 
 <!--START_SECTION:curiosity-->
-🧠 One day on Venus is longer than one year on Venus.
+🧠 The Eiffel Tower can grow over 15 cm taller in summer due to thermal expansion.
 <!--END_SECTION:curiosity-->
 
 ---
