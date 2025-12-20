@@ -97,7 +97,7 @@ A full-stack app to manage anonymous gift exchanges among friends or colleagues.
 ## 🔬 Random Curiosity of the Day
 
 <!--START_SECTION:curiosity-->
-🧠 The word ‘universe’ comes from the Latin ‘universum’ — meaning ‘all things combined as one.’
+🧠 There are more stars in the universe than grains of sand on Earth.
 <!--END_SECTION:curiosity-->
 
 ---
