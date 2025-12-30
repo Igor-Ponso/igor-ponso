@@ -97,7 +97,7 @@ A full-stack app to manage anonymous gift exchanges among friends or colleagues.
 ## 🔬 Random Curiosity of the Day
 
 <!--START_SECTION:curiosity-->
-🧠 The moon is moving away from Earth by about 3.8 cm every year.
+🧠 The Eiffel Tower can grow over 15 cm taller in summer due to thermal expansion.
 <!--END_SECTION:curiosity-->
 
 ---
