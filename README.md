@@ -97,7 +97,7 @@ A full-stack app to manage anonymous gift exchanges among friends or colleagues.
 ## 🔬 Random Curiosity of the Day
 
 <!--START_SECTION:curiosity-->
-🧠 Saturn's moon Titan has lakes of liquid methane instead of water.
+🧠 Bananas are technically berries, but strawberries are not.
 <!--END_SECTION:curiosity-->
 
 ---
