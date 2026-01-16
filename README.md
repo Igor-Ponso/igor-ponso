@@ -105,9 +105,9 @@ A full-stack app to manage anonymous gift exchanges among friends or colleagues.
 ## ✨ Verse of the Day
 
 <!--START_SECTION:bibleverse-->
-📖 _"Because of the Lord’s great love we are not consumed, for his compassions never fail. They are new every morning; great is your faithfulness."_  
-— Lamentations 3:22–23 (NIV)
-💡 _Today’s encouragement: **New Mercies Daily**_
+📖 _"Salvation is found in no one else, for there is no other name under heaven given to mankind by which we must be saved."_  
+— Acts 4:12 (NIV)
+💡 _Today’s encouragement: **Christ is the Only Way**_
 
 🔁 _A new verse every day — come back tomorrow!_
 <!--END_SECTION:bibleverse-->
