@@ -105,9 +105,9 @@ A full-stack app to manage anonymous gift exchanges among friends or colleagues.
 ## ✨ Verse of the Day
 
 <!--START_SECTION:bibleverse-->
-📖 _"Therefore, if anyone is in Christ, the new creation has come: The old has gone, the new is here!"_  
-— 2 Corinthians 5:17 (NIV)
-💡 _Today’s encouragement: **New Life in Christ**_
+📖 _"And we know that in all things God works for the good of those who love him, who have been called according to his purpose."_  
+— Romans 8:28 (NIV)
+💡 _Today’s encouragement: **Purpose in God**_
 
 🔁 _A new verse every day — come back tomorrow!_
 <!--END_SECTION:bibleverse-->
