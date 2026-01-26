@@ -105,9 +105,9 @@ A full-stack app to manage anonymous gift exchanges among friends or colleagues.
 ## ✨ Verse of the Day
 
 <!--START_SECTION:bibleverse-->
-📖 _"For it is by grace you have been saved, through faith—and this is not from yourselves, it is the gift of God—not by works, so that no one can boast."_  
-— Ephesians 2:8–9 (NIV)
-💡 _Today’s encouragement: **Salvation by Grace**_
+📖 _"Love the Lord your God with all your heart and with all your soul and with all your strength."_  
+— Deuteronomy 6:5 (NIV)
+💡 _Today’s encouragement: **Greatest Commandment**_
 
 🔁 _A new verse every day — come back tomorrow!_
 <!--END_SECTION:bibleverse-->
