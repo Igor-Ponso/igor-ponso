@@ -97,7 +97,7 @@ A full-stack app to manage anonymous gift exchanges among friends or colleagues.
 ## 🔬 Random Curiosity of the Day
 
 <!--START_SECTION:curiosity-->
-🧠 Your body has more bacterial cells than human cells — mostly good ones.
+🧠 In Biblical Hebrew, the word for ‘soul’ (נפש - nephesh) is used for both humans and animals — reflecting the breath of life given by God (Genesis 2:7).
 <!--END_SECTION:curiosity-->
 
 ---
