@@ -97,7 +97,7 @@ A full-stack app to manage anonymous gift exchanges among friends or colleagues.
 ## 🔬 Random Curiosity of the Day
 
 <!--START_SECTION:curiosity-->
-🧠 Honey never spoils. Archaeologists found 3,000-year-old jars of honey in Egyptian tombs — still edible.
+🧠 One day on Venus is longer than one year on Venus.
 <!--END_SECTION:curiosity-->
 
 ---
