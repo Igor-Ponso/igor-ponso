@@ -97,7 +97,7 @@ A full-stack app to manage anonymous gift exchanges among friends or colleagues.
 ## 🔬 Random Curiosity of the Day
 
 <!--START_SECTION:curiosity-->
-🧠 Your body contains around 37.2 trillion cells — and they’re constantly renewing.
+🧠 God's name ‘YHWH’ was considered so sacred that Jews would not pronounce it aloud.
 <!--END_SECTION:curiosity-->
 
 ---
