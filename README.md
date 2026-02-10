@@ -97,7 +97,7 @@ A full-stack app to manage anonymous gift exchanges among friends or colleagues.
 ## 🔬 Random Curiosity of the Day
 
 <!--START_SECTION:curiosity-->
-🧠 God's name ‘YHWH’ was considered so sacred that Jews would not pronounce it aloud.
+🧠 A teaspoon of a neutron star would weigh around 6 billion tons.
 <!--END_SECTION:curiosity-->
 
 ---
