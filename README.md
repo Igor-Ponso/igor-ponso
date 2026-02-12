@@ -105,9 +105,9 @@ A full-stack app to manage anonymous gift exchanges among friends or colleagues.
 ## ✨ Verse of the Day
 
 <!--START_SECTION:bibleverse-->
-📖 _"God is our refuge and strength, an ever-present help in trouble."_  
-— Psalm 46:1 (NIV)
-💡 _Today’s encouragement: **Comfort in Chaos**_
+📖 _"But the fruit of the Spirit is love, joy, peace, forbearance, kindness, goodness, faithfulness, gentleness and self-control."_  
+— Galatians 5:22–23 (NIV)
+💡 _Today’s encouragement: **Spirit-Filled Living**_
 
 🔁 _A new verse every day — come back tomorrow!_
 <!--END_SECTION:bibleverse-->
