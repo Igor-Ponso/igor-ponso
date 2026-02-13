@@ -97,7 +97,7 @@ A full-stack app to manage anonymous gift exchanges among friends or colleagues.
 ## 🔬 Random Curiosity of the Day
 
 <!--START_SECTION:curiosity-->
-🧠 God's name ‘YHWH’ was considered so sacred that Jews would not pronounce it aloud.
+🧠 Some turtles can breathe through their butts. It's called cloacal respiration.
 <!--END_SECTION:curiosity-->
 
 ---
