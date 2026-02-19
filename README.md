@@ -97,7 +97,7 @@ A full-stack app to manage anonymous gift exchanges among friends or colleagues.
 ## 🔬 Random Curiosity of the Day
 
 <!--START_SECTION:curiosity-->
-🧠 Some turtles can breathe through their butts. It's called cloacal respiration.
+🧠 There is a Bible written entirely in Morse code — it's 3 volumes long.
 <!--END_SECTION:curiosity-->
 
 ---
