@@ -97,7 +97,7 @@ A full-stack app to manage anonymous gift exchanges among friends or colleagues.
 ## 🔬 Random Curiosity of the Day
 
 <!--START_SECTION:curiosity-->
-🧠 There is a Bible written entirely in Morse code — it's 3 volumes long.
+🧠 In the Hebrew Bible, the name ‘Adam’ is closely related to ‘adamah’, which means ‘ground’.
 <!--END_SECTION:curiosity-->
 
 ---
