@@ -105,9 +105,9 @@ A full-stack app to manage anonymous gift exchanges among friends or colleagues.
 ## ✨ Verse of the Day
 
 <!--START_SECTION:bibleverse-->
-📖 _"Because of the Lord’s great love we are not consumed, for his compassions never fail. They are new every morning; great is your faithfulness."_  
-— Lamentations 3:22–23 (NIV)
-💡 _Today’s encouragement: **New Mercies Daily**_
+📖 _"In the beginning was the Word, and the Word was with God, and the Word was God. He was with God in the beginning."_  
+— John 1:1–3 (NIV)
+💡 _Today’s encouragement: **Christ the Eternal Word**_
 
 🔁 _A new verse every day — come back tomorrow!_
 <!--END_SECTION:bibleverse-->
