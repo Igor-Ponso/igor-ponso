@@ -97,7 +97,7 @@ A full-stack app to manage anonymous gift exchanges among friends or colleagues.
 ## 🔬 Random Curiosity of the Day
 
 <!--START_SECTION:curiosity-->
-🧠 Genesis is not only a book of the Bible — it's also the Greek word for ‘origin’.
+🧠 God's name ‘YHWH’ was considered so sacred that Jews would not pronounce it aloud.
 <!--END_SECTION:curiosity-->
 
 ---
