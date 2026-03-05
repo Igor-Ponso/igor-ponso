@@ -97,7 +97,7 @@ A full-stack app to manage anonymous gift exchanges among friends or colleagues.
 ## 🔬 Random Curiosity of the Day
 
 <!--START_SECTION:curiosity-->
-🧠 The human eye can distinguish around 10 million different colors.
+🧠 There are more stars in the universe than grains of sand on Earth.
 <!--END_SECTION:curiosity-->
 
 ---
