@@ -97,7 +97,7 @@ A full-stack app to manage anonymous gift exchanges among friends or colleagues.
 ## 🔬 Random Curiosity of the Day
 
 <!--START_SECTION:curiosity-->
-🧠 The human eye can distinguish around 10 million different colors.
+🧠 Saturn's moon Titan has lakes of liquid methane instead of water.
 <!--END_SECTION:curiosity-->
 
 ---
