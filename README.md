@@ -105,9 +105,9 @@ A full-stack app to manage anonymous gift exchanges among friends or colleagues.
 ## ✨ Verse of the Day
 
 <!--START_SECTION:bibleverse-->
-📖 _"But God demonstrates his own love for us in this: While we were still sinners, Christ died for us."_  
-— Romans 5:8 (NIV)
-💡 _Today’s encouragement: **God’s Love in Action**_
+📖 _"Because of the Lord’s great love we are not consumed, for his compassions never fail. They are new every morning; great is your faithfulness."_  
+— Lamentations 3:22–23 (NIV)
+💡 _Today’s encouragement: **New Mercies Daily**_
 
 🔁 _A new verse every day — come back tomorrow!_
 <!--END_SECTION:bibleverse-->
