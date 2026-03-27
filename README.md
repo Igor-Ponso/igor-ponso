@@ -97,7 +97,7 @@ A full-stack app to manage anonymous gift exchanges among friends or colleagues.
 ## 🔬 Random Curiosity of the Day
 
 <!--START_SECTION:curiosity-->
-🧠 In space, no one can hear you scream — because there is no air to carry sound.
+🧠 The human eye can distinguish around 10 million different colors.
 <!--END_SECTION:curiosity-->
 
 ---
