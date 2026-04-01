@@ -97,7 +97,7 @@ A full-stack app to manage anonymous gift exchanges among friends or colleagues.
 ## 🔬 Random Curiosity of the Day
 
 <!--START_SECTION:curiosity-->
-🧠 Octopuses have three hearts, and their blood is blue due to copper-based hemocyanin.
+🧠 If the Sun were the size of a white blood cell, the Milky Way would be the size of the continental United States.
 <!--END_SECTION:curiosity-->
 
 ---
