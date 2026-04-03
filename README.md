@@ -105,9 +105,9 @@ A full-stack app to manage anonymous gift exchanges among friends or colleagues.
 ## ✨ Verse of the Day
 
 <!--START_SECTION:bibleverse-->
-📖 _"And we know that in all things God works for the good of those who love him, who have been called according to his purpose."_  
-— Romans 8:28 (NIV)
-💡 _Today’s encouragement: **Purpose in God**_
+📖 _"Whatever you do, work at it with all your heart, as working for the Lord, not for human masters."_  
+— Colossians 3:23–24 (NIV)
+💡 _Today’s encouragement: **Work with Purpose**_
 
 🔁 _A new verse every day — come back tomorrow!_
 <!--END_SECTION:bibleverse-->
