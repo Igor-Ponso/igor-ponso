@@ -105,9 +105,9 @@ A full-stack app to manage anonymous gift exchanges among friends or colleagues.
 ## ✨ Verse of the Day
 
 <!--START_SECTION:bibleverse-->
-📖 _"He humbled himself by becoming obedient to death—even death on a cross! Therefore God exalted him to the highest place and gave him the name that is above every name."_  
-— Philippians 2:5–11 (NIV)
-💡 _Today’s encouragement: **The Humility and Glory of Christ**_
+📖 _"Jesus answered, 'I am the way and the truth and the life. No one comes to the Father except through me.'"_  
+— John 14:6 (NIV)
+💡 _Today’s encouragement: **Exclusive Truth**_
 
 🔁 _A new verse every day — come back tomorrow!_
 <!--END_SECTION:bibleverse-->
