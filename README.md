@@ -97,7 +97,7 @@ A full-stack app to manage anonymous gift exchanges among friends or colleagues.
 ## 🔬 Random Curiosity of the Day
 
 <!--START_SECTION:curiosity-->
-🧠 Sharks are older than trees. They’ve existed for over 400 million years.
+🧠 In space, no one can hear you scream — because there is no air to carry sound.
 <!--END_SECTION:curiosity-->
 
 ---
