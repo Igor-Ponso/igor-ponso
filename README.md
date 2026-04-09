@@ -105,9 +105,9 @@ A full-stack app to manage anonymous gift exchanges among friends or colleagues.
 ## ✨ Verse of the Day
 
 <!--START_SECTION:bibleverse-->
-📖 _"Taste and see that the Lord is good; blessed is the one who takes refuge in him."_  
-— Psalm 34:8 (NIV)
-💡 _Today’s encouragement: **Trust in God’s Goodness**_
+📖 _"Love the Lord your God with all your heart and with all your soul and with all your strength."_  
+— Deuteronomy 6:5 (NIV)
+💡 _Today’s encouragement: **Greatest Commandment**_
 
 🔁 _A new verse every day — come back tomorrow!_
 <!--END_SECTION:bibleverse-->
