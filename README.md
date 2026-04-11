@@ -105,9 +105,9 @@ A full-stack app to manage anonymous gift exchanges among friends or colleagues.
 ## ✨ Verse of the Day
 
 <!--START_SECTION:bibleverse-->
-📖 _"Your word is a lamp for my feet, a light on my path."_  
-— Psalm 119:105 (NIV)
-💡 _Today’s encouragement: **Guidance in the Journey**_
+📖 _"God is our refuge and strength, an ever-present help in trouble."_  
+— Psalm 46:1 (NIV)
+💡 _Today’s encouragement: **Comfort in Chaos**_
 
 🔁 _A new verse every day — come back tomorrow!_
 <!--END_SECTION:bibleverse-->
