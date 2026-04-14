@@ -97,7 +97,7 @@ A full-stack app to manage anonymous gift exchanges among friends or colleagues.
 ## 🔬 Random Curiosity of the Day
 
 <!--START_SECTION:curiosity-->
-🧠 Genesis is not only a book of the Bible — it's also the Greek word for ‘origin’.
+🧠 A teaspoon of a neutron star would weigh around 6 billion tons.
 <!--END_SECTION:curiosity-->
 
 ---
