@@ -97,7 +97,7 @@ A full-stack app to manage anonymous gift exchanges among friends or colleagues.
 ## 🔬 Random Curiosity of the Day
 
 <!--START_SECTION:curiosity-->
-🧠 There are more stars in the universe than grains of sand on Earth.
+🧠 Genesis is not only a book of the Bible — it's also the Greek word for ‘origin’.
 <!--END_SECTION:curiosity-->
 
 ---
