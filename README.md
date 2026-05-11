@@ -97,7 +97,7 @@ A full-stack app to manage anonymous gift exchanges among friends or colleagues.
 ## 🔬 Random Curiosity of the Day
 
 <!--START_SECTION:curiosity-->
-🧠 In the Hebrew Bible, the name ‘Adam’ is closely related to ‘adamah’, which means ‘ground’.
+🧠 The first computer ‘bug’ was a real moth found inside a Mark II computer in 1947.
 <!--END_SECTION:curiosity-->
 
 ---
