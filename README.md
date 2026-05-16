@@ -97,7 +97,7 @@ A full-stack app to manage anonymous gift exchanges among friends or colleagues.
 ## 🔬 Random Curiosity of the Day
 
 <!--START_SECTION:curiosity-->
-🧠 The Eiffel Tower can grow over 15 cm taller in summer due to thermal expansion.
+🧠 Your body contains around 37.2 trillion cells — and they’re constantly renewing.
 <!--END_SECTION:curiosity-->
 
 ---
