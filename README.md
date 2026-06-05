@@ -97,7 +97,7 @@ A full-stack app to manage anonymous gift exchanges among friends or colleagues.
 ## 🔬 Random Curiosity of the Day
 
 <!--START_SECTION:curiosity-->
-🧠 Honey never spoils. Archaeologists found 3,000-year-old jars of honey in Egyptian tombs — still edible.
+🧠 The human eye can distinguish around 10 million different colors.
 <!--END_SECTION:curiosity-->
 
 ---
