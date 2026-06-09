@@ -97,7 +97,7 @@ A full-stack app to manage anonymous gift exchanges among friends or colleagues.
 ## 🔬 Random Curiosity of the Day
 
 <!--START_SECTION:curiosity-->
-🧠 In space, no one can hear you scream — because there is no air to carry sound.
+🧠 There is a Bible written entirely in Morse code — it's 3 volumes long.
 <!--END_SECTION:curiosity-->
 
 ---
