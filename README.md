@@ -97,7 +97,7 @@ A full-stack app to manage anonymous gift exchanges among friends or colleagues.
 ## 🔬 Random Curiosity of the Day
 
 <!--START_SECTION:curiosity-->
-🧠 There is a Bible written entirely in Morse code — it's 3 volumes long.
+🧠 The Milky Way galaxy is on a collision course with the Andromeda galaxy.
 <!--END_SECTION:curiosity-->
 
 ---
