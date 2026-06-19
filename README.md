@@ -97,7 +97,7 @@ A full-stack app to manage anonymous gift exchanges among friends or colleagues.
 ## 🔬 Random Curiosity of the Day
 
 <!--START_SECTION:curiosity-->
-🧠 In the Hebrew Bible, the name ‘Adam’ is closely related to ‘adamah’, which means ‘ground’.
+🧠 There are more stars in the universe than grains of sand on Earth.
 <!--END_SECTION:curiosity-->
 
 ---
