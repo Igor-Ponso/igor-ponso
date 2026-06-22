@@ -97,7 +97,7 @@ A full-stack app to manage anonymous gift exchanges among friends or colleagues.
 ## 🔬 Random Curiosity of the Day
 
 <!--START_SECTION:curiosity-->
-🧠 Octopuses have three hearts, and their blood is blue due to copper-based hemocyanin.
+🧠 Bananas are technically berries, but strawberries are not.
 <!--END_SECTION:curiosity-->
 
 ---
