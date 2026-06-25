@@ -97,7 +97,7 @@ A full-stack app to manage anonymous gift exchanges among friends or colleagues.
 ## 🔬 Random Curiosity of the Day
 
 <!--START_SECTION:curiosity-->
-🧠 Some turtles can breathe through their butts. It's called cloacal respiration.
+🧠 Your body has more bacterial cells than human cells — mostly good ones.
 <!--END_SECTION:curiosity-->
 
 ---
