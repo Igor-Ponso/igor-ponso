@@ -97,7 +97,7 @@ A full-stack app to manage anonymous gift exchanges among friends or colleagues.
 ## 🔬 Random Curiosity of the Day
 
 <!--START_SECTION:curiosity-->
-🧠 The human eye can distinguish around 10 million different colors.
+🧠 A group of flamingos is called a ‘flamboyance’.
 <!--END_SECTION:curiosity-->
 
 ---
