@@ -105,9 +105,9 @@ A full-stack app to manage anonymous gift exchanges among friends or colleagues.
 ## ✨ Verse of the Day
 
 <!--START_SECTION:bibleverse-->
-📖 _"Praise the Lord, my soul, and forget not all his benefits—who forgives all your sins and heals all your diseases..."_  
-— Psalm 103:2–5 (NIV)
-💡 _Today’s encouragement: **Gratitude and Grace**_
+📖 _"Come to me, all you who are weary and burdened, and I will give you rest."_  
+— Matthew 11:28–30 (NIV)
+💡 _Today’s encouragement: **Rest for the Soul**_
 
 🔁 _A new verse every day — come back tomorrow!_
 <!--END_SECTION:bibleverse-->
