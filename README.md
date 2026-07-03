@@ -105,9 +105,9 @@ A full-stack app to manage anonymous gift exchanges among friends or colleagues.
 ## ✨ Verse of the Day
 
 <!--START_SECTION:bibleverse-->
-📖 _"In the beginning was the Word, and the Word was with God, and the Word was God. He was with God in the beginning."_  
-— John 1:1–3 (NIV)
-💡 _Today’s encouragement: **Christ the Eternal Word**_
+📖 _"But the fruit of the Spirit is love, joy, peace, forbearance, kindness, goodness, faithfulness, gentleness and self-control."_  
+— Galatians 5:22–23 (NIV)
+💡 _Today’s encouragement: **Spirit-Filled Living**_
 
 🔁 _A new verse every day — come back tomorrow!_
 <!--END_SECTION:bibleverse-->
