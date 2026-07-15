@@ -97,7 +97,7 @@ A full-stack app to manage anonymous gift exchanges among friends or colleagues.
 ## 🔬 Random Curiosity of the Day
 
 <!--START_SECTION:curiosity-->
-🧠 The universe is expanding faster today than it was billions of years ago.
+🧠 In space, no one can hear you scream — because there is no air to carry sound.
 <!--END_SECTION:curiosity-->
 
 ---
