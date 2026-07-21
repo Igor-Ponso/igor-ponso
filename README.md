@@ -97,7 +97,7 @@ A full-stack app to manage anonymous gift exchanges among friends or colleagues.
 ## 🔬 Random Curiosity of the Day
 
 <!--START_SECTION:curiosity-->
-🧠 Jesus wept (John 11:35) is the shortest verse in the Bible — revealing Christ's humanity.
+🧠 Octopuses have three hearts, and their blood is blue due to copper-based hemocyanin.
 <!--END_SECTION:curiosity-->
 
 ---
