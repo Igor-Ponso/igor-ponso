@@ -105,9 +105,9 @@ A full-stack app to manage anonymous gift exchanges among friends or colleagues.
 ## ✨ Verse of the Day
 
 <!--START_SECTION:bibleverse-->
-📖 _"Come to me, all you who are weary and burdened, and I will give you rest."_  
-— Matthew 11:28–30 (NIV)
-💡 _Today’s encouragement: **Rest for the Soul**_
+📖 _"In the beginning was the Word, and the Word was with God, and the Word was God. He was with God in the beginning."_  
+— John 1:1–3 (NIV)
+💡 _Today’s encouragement: **Christ the Eternal Word**_
 
 🔁 _A new verse every day — come back tomorrow!_
 <!--END_SECTION:bibleverse-->
