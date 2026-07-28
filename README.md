@@ -97,7 +97,7 @@ A full-stack app to manage anonymous gift exchanges among friends or colleagues.
 ## 🔬 Random Curiosity of the Day
 
 <!--START_SECTION:curiosity-->
-🧠 Your body has more bacterial cells than human cells — mostly good ones.
+🧠 In space, no one can hear you scream — because there is no air to carry sound.
 <!--END_SECTION:curiosity-->
 
 ---
