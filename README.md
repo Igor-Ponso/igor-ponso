@@ -97,7 +97,7 @@ A full-stack app to manage anonymous gift exchanges among friends or colleagues.
 ## 🔬 Random Curiosity of the Day
 
 <!--START_SECTION:curiosity-->
-🧠 God's name ‘YHWH’ was considered so sacred that Jews would not pronounce it aloud.
+🧠 The Earth's rotation is gradually slowing — by about 17 milliseconds every 100 years.
 <!--END_SECTION:curiosity-->
 
 ---
