@@ -97,7 +97,7 @@ A full-stack app to manage anonymous gift exchanges among friends or colleagues.
 ## 🔬 Random Curiosity of the Day
 
 <!--START_SECTION:curiosity-->
-🧠 Bananas are technically berries, but strawberries are not.
+🧠 The word ‘universe’ comes from the Latin ‘universum’ — meaning ‘all things combined as one.’
 <!--END_SECTION:curiosity-->
 
 ---
