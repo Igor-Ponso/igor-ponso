@@ -1,3 +1,4 @@
+<!-- PREVIEW gerado por Claude — nao e o README real. Cmd+Shift+V para renderizar. -->
 <p align="center">
   <picture>
     <source srcset="./assets/greetings_typing_white_fixed.gif" media="(prefers-color-scheme: dark)" />
@@ -12,22 +13,21 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Igor-Ponso/igor-ponso/blob/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Igor-Ponso/igor-ponso/blob/output/github-contribution-grid-snake.svg" />
-    <img alt="Snake animation" src="https://github.com/Igor-Ponso/igor-ponso/blob/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Igor-Ponso/igor-ponso/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Igor-Ponso/igor-ponso/output/github-contribution-grid-snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/Igor-Ponso/igor-ponso/output/github-contribution-grid-snake.svg" />
   </picture>
 </div>
-
 
 ---
 
 ## 👨‍💻 About Me
 
 - 🔭 Currently working on real-world web solutions with Laravel + VueJS stack
-- 🌱 Focused on mastering **Advanced JavaScript**, **AWS Lambda**, **Advanced Larabel Tools**, and **Clean Code**
+- 🌱 Focused on mastering **Advanced JavaScript**, **AWS Lambda**, **Advanced Laravel Tools**, and **Clean Code**
 - 🧠 Cybersecurity enthusiast with postgrad certification to build more secure systems
 - 📚 Big fan of Biblical exegesis, theology, and cosmic curiosities
-- ⚡ Fun fact: The Sun is *not* a fireball. Also, a 🍍 is a bunch of flowers joined together!
+- ⚡ Fun fact: The Sun is _not_ a fireball. Also, a 🍍 is a bunch of flowers joined together!
 - 🎮 Gaming fan — big love for the [**Crash Bandicoot Saga**](https://www.crashbandicoot.com/pt/nsane-trilogy/)
 - 🇨🇦 Living in **British Columbia, Canada**
 
@@ -47,28 +47,45 @@
 
 ---
 
-## 🧭 Learning Goals - 2025
+## 📂 Featured Projects
 
-- [x] Clean Code Mastery
-- [ ] Advanced Vue 3 Patterns
-- [ ] TALL Stack Full Deployment
-- [ ] Kubernetes Basics
-- [ ] System Design Principles
+### 🏡 Sovereign Estates — Real Estate Template
+
+A complete, production-ready real estate platform released free to the community. Laravel 13 + Vue 3 + Inertia v3 + shadcn-vue + TypeScript, with field-level PII encryption (CipherSweet), role-based access, trigram search, media pipeline and a full test suite.
+
+[🔗 GitHub Repo](https://github.com/Igor-Ponso/real-estate-free-template)
 
 ---
 
-## 📂 Featured Projects
+### 🧩 Rubik's Cube Solver 3D
+
+An interactive 2x2 and 3x3 Rubik's Cube with multiple solving modes. The 3D rendering is **pure CSS** — `transform-style: preserve-3d`, no WebGL, no Three.js — with drag-to-orbit and animated move sequences.
+
+[🔗 GitHub Repo](https://github.com/Igor-Ponso/rubik-solver-3d) · [🕹️ Play now](https://igor-ponso.github.io/rubik-solver-3d/)
+
+---
+
+### 🃏 Poké TCG (Nuxt)
+
+Pokédex with a Trading Card Game mode, built on Nuxt 3 + Pinia + TypeScript. Combines the Pokémon game UI with the look of the physical cards, backed by an LRU-cached API layer.
+
+[🔗 GitHub Repo](https://github.com/Igor-Ponso/nuxt-poke-tcg)
+
+---
 
 ### 🎮 Simon (Game)
+
 A simple memory game based on the classic Simon electronic game. Built with JavaScript and DOM manipulation to recreate the fun and challenge of repeating color sequences.
-[🔗 GitHub Repo](https://github.com/Igor-Ponso/genius) or 
-[🕹️ Play now](https://igor-ponso.github.io/genius/)
+
+[🔗 GitHub Repo](https://github.com/Igor-Ponso/genius) · [🕹️ Play now](https://igor-ponso.github.io/genius/)
 
 ---
 
 ### 🎁 Secret Santa
+
 A full-stack app to manage anonymous gift exchanges among friends or colleagues. Users can register, draw names, and get their Secret Santa match securely.
-[🔗 GitHub Repo](https://github.com/igor-ponso/secret-santa)
+
+[🔗 GitHub Repo](https://github.com/Igor-Ponso/secret-santa)
 
 ---
 
@@ -76,7 +93,9 @@ A full-stack app to manage anonymous gift exchanges among friends or colleagues.
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Advanced%20Laravel-f55247?style=for-the-badge&logo=laravel&logoColor=white&logoWidth=20&logo=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-line.svg" />
-  <img src="https://img.shields.io/badge/-Mobile%20Dev-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Game%20Dev-9146FF?style=for-the-badge&logo=godotengine&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Ethical%20Hacking-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/-AI%20Performance-412991?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
   <img src="https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" />
   <img src="https://img.shields.io/badge/-Kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white" />
@@ -84,20 +103,26 @@ A full-stack app to manage anonymous gift exchanges among friends or colleagues.
 
 > I'm especially interested in exploring **advanced Laravel tooling**, like **Sail**, **Octane**, **queues**, **testing**, and performance optimization.
 >
-> I'd also love to dive into **mobile development**, either going full native or building rich **progressive web apps**.
+> **Game development** is the itch I keep coming back to — the Crash Bandicoot fan in me wants to understand how those worlds are actually built, not just played.
+>
+> **Ethical hacking** is the natural next step after the cybersecurity postgrad: I'd rather find the holes in my own systems than have someone else find them for me.
+>
+> **AI for performance** — using models to profile, spot bottlenecks and propose optimisations, rather than just generating boilerplate.
 >
 > **Redis** is already part of my stack, but I want to go deeper into real-time applications.
 >
 > **ElasticSearch** continues to fascinate me with its powerful querying and filtering capabilities.
 >
-> As for **Kubernetes**... I’m not quite sure what it is yet, but hey, if it’s fun — why not? 😄
+> **Kubernetes** is next on the list — container orchestration is the gap between "it runs on my server" and "it runs anywhere, at any scale".
 
 ---
 
 ## 🔬 Random Curiosity of the Day
 
 <!--START_SECTION:curiosity-->
+
 🧠 Your body contains around 37.2 trillion cells — and they’re constantly renewing.
+
 <!--END_SECTION:curiosity-->
 
 ---
@@ -105,13 +130,14 @@ A full-stack app to manage anonymous gift exchanges among friends or colleagues.
 ## ✨ Verse of the Day
 
 <!--START_SECTION:bibleverse-->
+
 📖 _"But he was pierced for our transgressions, he was crushed for our iniquities; the punishment that brought us peace was on him, and by his wounds we are healed."_  
 — Isaiah 53:5 (NIV)
 💡 _Today’s encouragement: **Jesus, the Suffering Servant**_
 
 🔁 _A new verse every day — come back tomorrow!_
-<!--END_SECTION:bibleverse-->
 
+<!--END_SECTION:bibleverse-->
 
 ---
 
@@ -121,7 +147,6 @@ A full-stack app to manage anonymous gift exchanges among friends or colleagues.
   <img src="https://github-readme-stats-silk-zeta-74.vercel.app/api?username=igor-ponso&show_icons=true&theme=vue-dark&count_private=true&hide_border=false&cache_seconds=3600" height="200"/>
   <img src="https://github-readme-stats-silk-zeta-74.vercel.app/api/top-langs/?username=igor-ponso&layout=compact&hide_border=false&theme=vue-dark" height="200"/>
 </p>
-
 
 <p align="center">
   <a href="https://git.io/streak-stats">
@@ -136,13 +161,13 @@ A full-stack app to manage anonymous gift exchanges among friends or colleagues.
   />
 </p>
 
-
 ---
 
 <details>
   <summary><strong>🛠️ My Tech Stack</strong></summary>
 
 ### Frontend
+
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
@@ -155,6 +180,7 @@ A full-stack app to manage anonymous gift exchanges among friends or colleagues.
 </p>
 
 ### Backend
+
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-line.svg" height="40"/>
@@ -162,6 +188,7 @@ A full-stack app to manage anonymous gift exchanges among friends or colleagues.
 </p>
 
 ### DevOps & Tools
+
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40"/>
@@ -201,7 +228,9 @@ A full-stack app to manage anonymous gift exchanges among friends or colleagues.
 ## 🎧 Now on Spotify
 
 <p align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=mxw20ptt618yhwif7x3fiycng&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=mxw20ptt618yhwif7x3fiycng&redirect=true)"/>
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=mxw20ptt618yhwif7x3fiycng&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=true" />
+  </a>
 </p>
 
 ---
