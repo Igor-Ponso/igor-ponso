@@ -128,9 +128,9 @@ A full-stack app to manage anonymous gift exchanges among friends or colleagues.
 ## ✨ Verse of the Day
 
 <!--START_SECTION:bibleverse-->
-📖 _"Come to me, all you who are weary and burdened, and I will give you rest."_  
-— Matthew 11:28–30 (NIV)
-💡 _Today’s encouragement: **Rest for the Soul**_
+📖 _"He humbled himself by becoming obedient to death—even death on a cross! Therefore God exalted him to the highest place and gave him the name that is above every name."_  
+— Philippians 2:5–11 (NIV)
+💡 _Today’s encouragement: **The Humility and Glory of Christ**_
 
 🔁 _A new verse every day — come back tomorrow!_
 <!--END_SECTION:bibleverse-->
