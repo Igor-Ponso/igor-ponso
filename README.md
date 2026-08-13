@@ -128,9 +128,9 @@ A full-stack app to manage anonymous gift exchanges among friends or colleagues.
 ## ✨ Verse of the Day
 
 <!--START_SECTION:bibleverse-->
-📖 _"But seek first his kingdom and his righteousness, and all these things will be given to you as well."_  
-— Matthew 6:33 (NIV)
-💡 _Today’s encouragement: **Kingdom Priority**_
+📖 _"But he was pierced for our transgressions, he was crushed for our iniquities; the punishment that brought us peace was on him, and by his wounds we are healed."_  
+— Isaiah 53:5 (NIV)
+💡 _Today’s encouragement: **Jesus, the Suffering Servant**_
 
 🔁 _A new verse every day — come back tomorrow!_
 <!--END_SECTION:bibleverse-->
