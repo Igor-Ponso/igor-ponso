@@ -120,7 +120,7 @@ A full-stack app to manage anonymous gift exchanges among friends or colleagues.
 ## 🔬 Random Curiosity of the Day
 
 <!--START_SECTION:curiosity-->
-🧠 Your body contains around 37.2 trillion cells — and they’re constantly renewing.
+🧠 Genesis is not only a book of the Bible — it's also the Greek word for ‘origin’.
 <!--END_SECTION:curiosity-->
 
 ---
