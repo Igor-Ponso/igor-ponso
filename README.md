@@ -120,7 +120,7 @@ A full-stack app to manage anonymous gift exchanges among friends or colleagues.
 ## 🔬 Random Curiosity of the Day
 
 <!--START_SECTION:curiosity-->
-🧠 God's name ‘YHWH’ was considered so sacred that Jews would not pronounce it aloud.
+🧠 Your body has more bacterial cells than human cells — mostly good ones.
 <!--END_SECTION:curiosity-->
 
 ---
