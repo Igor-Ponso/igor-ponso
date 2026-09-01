@@ -120,7 +120,7 @@ A full-stack app to manage anonymous gift exchanges among friends or colleagues.
 ## 🔬 Random Curiosity of the Day
 
 <!--START_SECTION:curiosity-->
-🧠 The Milky Way galaxy is on a collision course with the Andromeda galaxy.
+🧠 The Bible has been translated into over 3,500 languages.
 <!--END_SECTION:curiosity-->
 
 ---
