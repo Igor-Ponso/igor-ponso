@@ -120,7 +120,7 @@ A full-stack app to manage anonymous gift exchanges among friends or colleagues.
 ## 🔬 Random Curiosity of the Day
 
 <!--START_SECTION:curiosity-->
-🧠 Honey never spoils. Archaeologists found 3,000-year-old jars of honey in Egyptian tombs — still edible.
+🧠 If the Sun were the size of a white blood cell, the Milky Way would be the size of the continental United States.
 <!--END_SECTION:curiosity-->
 
 ---
