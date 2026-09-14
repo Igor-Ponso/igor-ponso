@@ -128,9 +128,9 @@ A full-stack app to manage anonymous gift exchanges among friends or colleagues.
 ## ✨ Verse of the Day
 
 <!--START_SECTION:bibleverse-->
-📖 _"Trust in the Lord with all your heart and lean not on your own understanding; in all your ways submit to him, and he will make your paths straight."_  
-— Proverbs 3:5–6 (NIV)
-💡 _Today’s encouragement: **Dependence on God**_
+📖 _"In the beginning was the Word, and the Word was with God, and the Word was God. He was with God in the beginning."_  
+— John 1:1–3 (NIV)
+💡 _Today’s encouragement: **Christ the Eternal Word**_
 
 🔁 _A new verse every day — come back tomorrow!_
 <!--END_SECTION:bibleverse-->
