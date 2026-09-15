@@ -128,9 +128,9 @@ A full-stack app to manage anonymous gift exchanges among friends or colleagues.
 ## ✨ Verse of the Day
 
 <!--START_SECTION:bibleverse-->
-📖 _"In the beginning was the Word, and the Word was with God, and the Word was God. He was with God in the beginning."_  
-— John 1:1–3 (NIV)
-💡 _Today’s encouragement: **Christ the Eternal Word**_
+📖 _"Praise the Lord, my soul, and forget not all his benefits—who forgives all your sins and heals all your diseases..."_  
+— Psalm 103:2–5 (NIV)
+💡 _Today’s encouragement: **Gratitude and Grace**_
 
 🔁 _A new verse every day — come back tomorrow!_
 <!--END_SECTION:bibleverse-->
