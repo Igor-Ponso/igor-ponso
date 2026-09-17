@@ -120,7 +120,7 @@ A full-stack app to manage anonymous gift exchanges among friends or colleagues.
 ## 🔬 Random Curiosity of the Day
 
 <!--START_SECTION:curiosity-->
-🧠 Saturn's moon Titan has lakes of liquid methane instead of water.
+🧠 Your body contains around 37.2 trillion cells — and they’re constantly renewing.
 <!--END_SECTION:curiosity-->
 
 ---
