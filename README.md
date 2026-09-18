@@ -120,7 +120,7 @@ A full-stack app to manage anonymous gift exchanges among friends or colleagues.
 ## 🔬 Random Curiosity of the Day
 
 <!--START_SECTION:curiosity-->
-🧠 Your body contains around 37.2 trillion cells — and they’re constantly renewing.
+🧠 Octopuses have three hearts, and their blood is blue due to copper-based hemocyanin.
 <!--END_SECTION:curiosity-->
 
 ---
