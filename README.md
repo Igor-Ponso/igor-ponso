@@ -128,9 +128,9 @@ A full-stack app to manage anonymous gift exchanges among friends or colleagues.
 ## ✨ Verse of the Day
 
 <!--START_SECTION:bibleverse-->
-📖 _"For the Spirit God gave us does not make us timid, but gives us power, love and self-discipline."_  
-— 2 Timothy 1:7 (NIV)
-💡 _Today’s encouragement: **Empowered Living**_
+📖 _"Therefore, there is now no condemnation for those who are in Christ Jesus."_  
+— Romans 8:1 (NIV)
+💡 _Today’s encouragement: **Freedom in Christ**_
 
 🔁 _A new verse every day — come back tomorrow!_
 <!--END_SECTION:bibleverse-->
