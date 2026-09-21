@@ -120,7 +120,7 @@ A full-stack app to manage anonymous gift exchanges among friends or colleagues.
 ## 🔬 Random Curiosity of the Day
 
 <!--START_SECTION:curiosity-->
-🧠 If the Sun were the size of a white blood cell, the Milky Way would be the size of the continental United States.
+🧠 Jesus wept (John 11:35) is the shortest verse in the Bible — revealing Christ's humanity.
 <!--END_SECTION:curiosity-->
 
 ---
