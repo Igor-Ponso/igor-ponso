@@ -128,9 +128,9 @@ A full-stack app to manage anonymous gift exchanges among friends or colleagues.
 ## ✨ Verse of the Day
 
 <!--START_SECTION:bibleverse-->
-📖 _"Therefore, there is now no condemnation for those who are in Christ Jesus."_  
-— Romans 8:1 (NIV)
-💡 _Today’s encouragement: **Freedom in Christ**_
+📖 _"For it is by grace you have been saved, through faith—and this is not from yourselves, it is the gift of God—not by works, so that no one can boast."_  
+— Ephesians 2:8–9 (NIV)
+💡 _Today’s encouragement: **Salvation by Grace**_
 
 🔁 _A new verse every day — come back tomorrow!_
 <!--END_SECTION:bibleverse-->
