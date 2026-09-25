@@ -128,9 +128,9 @@ A full-stack app to manage anonymous gift exchanges among friends or colleagues.
 ## ✨ Verse of the Day
 
 <!--START_SECTION:bibleverse-->
-📖 _"You will keep in perfect peace those whose minds are steadfast, because they trust in you."_  
-— Isaiah 26:3 (NIV)
-💡 _Today’s encouragement: **Perfect Peace**_
+📖 _"But God demonstrates his own love for us in this: While we were still sinners, Christ died for us."_  
+— Romans 5:8 (NIV)
+💡 _Today’s encouragement: **God’s Love in Action**_
 
 🔁 _A new verse every day — come back tomorrow!_
 <!--END_SECTION:bibleverse-->
