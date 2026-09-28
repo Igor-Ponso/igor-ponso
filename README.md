@@ -128,9 +128,9 @@ A full-stack app to manage anonymous gift exchanges among friends or colleagues.
 ## ✨ Verse of the Day
 
 <!--START_SECTION:bibleverse-->
-📖 _"Because of the Lord’s great love we are not consumed, for his compassions never fail. They are new every morning; great is your faithfulness."_  
-— Lamentations 3:22–23 (NIV)
-💡 _Today’s encouragement: **New Mercies Daily**_
+📖 _"And we know that in all things God works for the good of those who love him, who have been called according to his purpose."_  
+— Romans 8:28 (NIV)
+💡 _Today’s encouragement: **Purpose in God**_
 
 🔁 _A new verse every day — come back tomorrow!_
 <!--END_SECTION:bibleverse-->
