@@ -120,7 +120,7 @@ A full-stack app to manage anonymous gift exchanges among friends or colleagues.
 ## 🔬 Random Curiosity of the Day
 
 <!--START_SECTION:curiosity-->
-🧠 Some turtles can breathe through their butts. It's called cloacal respiration.
+🧠 Octopuses have three hearts, and their blood is blue due to copper-based hemocyanin.
 <!--END_SECTION:curiosity-->
 
 ---
