@@ -120,7 +120,7 @@ A full-stack app to manage anonymous gift exchanges among friends or colleagues.
 ## 🔬 Random Curiosity of the Day
 
 <!--START_SECTION:curiosity-->
-🧠 Octopuses have three hearts, and their blood is blue due to copper-based hemocyanin.
+🧠 Saturn's moon Titan has lakes of liquid methane instead of water.
 <!--END_SECTION:curiosity-->
 
 ---
