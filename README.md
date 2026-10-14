@@ -128,9 +128,9 @@ A full-stack app to manage anonymous gift exchanges among friends or colleagues.
 ## ✨ Verse of the Day
 
 <!--START_SECTION:bibleverse-->
-📖 _"The Lord is my shepherd, I lack nothing. He makes me lie down in green pastures, he leads me beside quiet waters, he refreshes my soul."_  
-— Psalm 23:1–3 (NIV)
-💡 _Today’s encouragement: **The Lord’s Care**_
+📖 _"Salvation is found in no one else, for there is no other name under heaven given to mankind by which we must be saved."_  
+— Acts 4:12 (NIV)
+💡 _Today’s encouragement: **Christ is the Only Way**_
 
 🔁 _A new verse every day — come back tomorrow!_
 <!--END_SECTION:bibleverse-->
