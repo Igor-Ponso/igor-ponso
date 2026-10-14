@@ -120,7 +120,7 @@ A full-stack app to manage anonymous gift exchanges among friends or colleagues.
 ## 🔬 Random Curiosity of the Day
 
 <!--START_SECTION:curiosity-->
-🧠 Your body contains around 37.2 trillion cells — and they’re constantly renewing.
+🧠 Honey never spoils. Archaeologists found 3,000-year-old jars of honey in Egyptian tombs — still edible.
 <!--END_SECTION:curiosity-->
 
 ---
