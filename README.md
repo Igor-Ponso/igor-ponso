@@ -128,9 +128,9 @@ A full-stack app to manage anonymous gift exchanges among friends or colleagues.
 ## ✨ Verse of the Day
 
 <!--START_SECTION:bibleverse-->
-📖 _"Love the Lord your God with all your heart and with all your soul and with all your strength."_  
-— Deuteronomy 6:5 (NIV)
-💡 _Today’s encouragement: **Greatest Commandment**_
+📖 _"Come to me, all you who are weary and burdened, and I will give you rest."_  
+— Matthew 11:28–30 (NIV)
+💡 _Today’s encouragement: **Rest for the Soul**_
 
 🔁 _A new verse every day — come back tomorrow!_
 <!--END_SECTION:bibleverse-->
