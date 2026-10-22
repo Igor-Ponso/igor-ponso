@@ -120,7 +120,7 @@ A full-stack app to manage anonymous gift exchanges among friends or colleagues.
 ## 🔬 Random Curiosity of the Day
 
 <!--START_SECTION:curiosity-->
-🧠 The first computer ‘bug’ was a real moth found inside a Mark II computer in 1947.
+🧠 There is a Bible written entirely in Morse code — it's 3 volumes long.
 <!--END_SECTION:curiosity-->
 
 ---
