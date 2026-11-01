@@ -128,9 +128,9 @@ A full-stack app to manage anonymous gift exchanges among friends or colleagues.
 ## ✨ Verse of the Day
 
 <!--START_SECTION:bibleverse-->
-📖 _"In the beginning God created the heavens and the earth."_  
-— Genesis 1:1 (NIV)
-💡 _Today’s encouragement: **God as Creator**_
+📖 _"God is our refuge and strength, an ever-present help in trouble."_  
+— Psalm 46:1 (NIV)
+💡 _Today’s encouragement: **Comfort in Chaos**_
 
 🔁 _A new verse every day — come back tomorrow!_
 <!--END_SECTION:bibleverse-->
