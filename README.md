@@ -120,7 +120,7 @@ A full-stack app to manage anonymous gift exchanges among friends or colleagues.
 ## 🔬 Random Curiosity of the Day
 
 <!--START_SECTION:curiosity-->
-🧠 Saturn's moon Titan has lakes of liquid methane instead of water.
+🧠 Sharks are older than trees. They’ve existed for over 400 million years.
 <!--END_SECTION:curiosity-->
 
 ---
