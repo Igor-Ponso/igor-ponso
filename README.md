@@ -120,7 +120,7 @@ A full-stack app to manage anonymous gift exchanges among friends or colleagues.
 ## 🔬 Random Curiosity of the Day
 
 <!--START_SECTION:curiosity-->
-🧠 The universe is expanding faster today than it was billions of years ago.
+🧠 Your body contains around 37.2 trillion cells — and they’re constantly renewing.
 <!--END_SECTION:curiosity-->
 
 ---
