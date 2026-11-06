@@ -128,9 +128,9 @@ A full-stack app to manage anonymous gift exchanges among friends or colleagues.
 ## ✨ Verse of the Day
 
 <!--START_SECTION:bibleverse-->
-📖 _"But the fruit of the Spirit is love, joy, peace, forbearance, kindness, goodness, faithfulness, gentleness and self-control."_  
-— Galatians 5:22–23 (NIV)
-💡 _Today’s encouragement: **Spirit-Filled Living**_
+📖 _"For it is by grace you have been saved, through faith—and this is not from yourselves, it is the gift of God—not by works, so that no one can boast."_  
+— Ephesians 2:8–9 (NIV)
+💡 _Today’s encouragement: **Salvation by Grace**_
 
 🔁 _A new verse every day — come back tomorrow!_
 <!--END_SECTION:bibleverse-->
