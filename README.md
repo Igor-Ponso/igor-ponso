@@ -120,7 +120,7 @@ A full-stack app to manage anonymous gift exchanges among friends or colleagues.
 ## 🔬 Random Curiosity of the Day
 
 <!--START_SECTION:curiosity-->
-🧠 God's name ‘YHWH’ was considered so sacred that Jews would not pronounce it aloud.
+🧠 The word ‘universe’ comes from the Latin ‘universum’ — meaning ‘all things combined as one.’
 <!--END_SECTION:curiosity-->
 
 ---
