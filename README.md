@@ -120,7 +120,7 @@ A full-stack app to manage anonymous gift exchanges among friends or colleagues.
 ## 🔬 Random Curiosity of the Day
 
 <!--START_SECTION:curiosity-->
-🧠 The word ‘universe’ comes from the Latin ‘universum’ — meaning ‘all things combined as one.’
+🧠 Jesus wept (John 11:35) is the shortest verse in the Bible — revealing Christ's humanity.
 <!--END_SECTION:curiosity-->
 
 ---
