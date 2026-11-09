@@ -128,9 +128,9 @@ A full-stack app to manage anonymous gift exchanges among friends or colleagues.
 ## ✨ Verse of the Day
 
 <!--START_SECTION:bibleverse-->
-📖 _"And we know that in all things God works for the good of those who love him, who have been called according to his purpose."_  
-— Romans 8:28 (NIV)
-💡 _Today’s encouragement: **Purpose in God**_
+📖 _"You will keep in perfect peace those whose minds are steadfast, because they trust in you."_  
+— Isaiah 26:3 (NIV)
+💡 _Today’s encouragement: **Perfect Peace**_
 
 🔁 _A new verse every day — come back tomorrow!_
 <!--END_SECTION:bibleverse-->
