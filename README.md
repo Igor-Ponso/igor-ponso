@@ -120,7 +120,7 @@ A full-stack app to manage anonymous gift exchanges among friends or colleagues.
 ## 🔬 Random Curiosity of the Day
 
 <!--START_SECTION:curiosity-->
-🧠 In the Hebrew Bible, the name ‘Adam’ is closely related to ‘adamah’, which means ‘ground’.
+🧠 The word ‘universe’ comes from the Latin ‘universum’ — meaning ‘all things combined as one.’
 <!--END_SECTION:curiosity-->
 
 ---
