@@ -128,9 +128,9 @@ A full-stack app to manage anonymous gift exchanges among friends or colleagues.
 ## ✨ Verse of the Day
 
 <!--START_SECTION:bibleverse-->
-📖 _"If we confess our sins, he is faithful and just and will forgive us our sins and purify us from all unrighteousness."_  
-— 1 John 1:9 (NIV)
-💡 _Today’s encouragement: **Forgiveness and Cleansing**_
+📖 _"Praise the Lord, my soul, and forget not all his benefits—who forgives all your sins and heals all your diseases..."_  
+— Psalm 103:2–5 (NIV)
+💡 _Today’s encouragement: **Gratitude and Grace**_
 
 🔁 _A new verse every day — come back tomorrow!_
 <!--END_SECTION:bibleverse-->
