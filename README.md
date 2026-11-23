@@ -128,9 +128,9 @@ A full-stack app to manage anonymous gift exchanges among friends or colleagues.
 ## ✨ Verse of the Day
 
 <!--START_SECTION:bibleverse-->
-📖 _"Whatever you do, work at it with all your heart, as working for the Lord, not for human masters."_  
-— Colossians 3:23–24 (NIV)
-💡 _Today’s encouragement: **Work with Purpose**_
+📖 _"Trust in the Lord with all your heart and lean not on your own understanding; in all your ways submit to him, and he will make your paths straight."_  
+— Proverbs 3:5–6 (NIV)
+💡 _Today’s encouragement: **Dependence on God**_
 
 🔁 _A new verse every day — come back tomorrow!_
 <!--END_SECTION:bibleverse-->
