@@ -120,7 +120,7 @@ A full-stack app to manage anonymous gift exchanges among friends or colleagues.
 ## 🔬 Random Curiosity of the Day
 
 <!--START_SECTION:curiosity-->
-🧠 Your body has more bacterial cells than human cells — mostly good ones.
+🧠 The Eiffel Tower can grow over 15 cm taller in summer due to thermal expansion.
 <!--END_SECTION:curiosity-->
 
 ---
